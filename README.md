@@ -12,7 +12,7 @@ Tabela de conteúdos
    👉 [Questões de pesquisa](#dart-2-questões-de-pesquisa) <br>
    👉 [Definição de Métricas](#sparkles-3-definição-de-métricas) <br>
    👉 [Relatório final](#pencil-relatório-final) <br>
-   👉 [Bônus](#-bônus-(+2-pontos)) <br>
+   👉 [Bônus](#-bônus-2-pontos) <br>
    👉 [Processo de desenvolvimento](#octocat-processo-de-desenvolvimento) <br>
    👉 [Alunos](#busts_in_silhouette-alunos) <br>
    👉 [Professor responsável](#bust_in_silhouette-professor-responsável) 
