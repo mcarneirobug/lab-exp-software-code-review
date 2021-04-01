@@ -1,7 +1,6 @@
 <h1 align="center">
     <span>Laboratório de Experimentação de Software</span>
 </h1>
-<p align="center">🚀 mineração de repositórios focado na linguagem Java para analise de métricas de software.</p>
 
 Tabela de conteúdos
 =================
