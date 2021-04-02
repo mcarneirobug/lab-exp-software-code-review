@@ -18,5 +18,5 @@ def write_data_to_json():
             "owner": item["owner"]["login"]
         }
         repos.append(data)
-    with open("repo_data.json", "w") as f:
+    with open("storage/repo_data.json", "w") as f:
         json.dump(repos, f, indent=4)
