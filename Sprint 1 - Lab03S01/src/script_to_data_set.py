@@ -4,6 +4,7 @@ import os
 import time
 import os.path
 import json
+import dateutil.parser
 
 
 def run_github_query_to_data_set(query):
@@ -71,25 +72,36 @@ def mine(quantidade_repo, owner, name):
                             resultado_query['data']['repository']['merged']['nodes'][y]['bodyText'])
                     else:
                         quantidade_caracteres_body_text = 0
+                    # Iremos pegar a data de criação do PR e a data de MERGE REQUEST e iremos comparar
+                    # Se não foi feito por um BOT ou CI/CD, então tem que ter pelo menos uma hora de diferença
+                    created_at = resultado_query['data']['repository']['merged']['nodes'][y]['createdAt']
+                    merged_at = resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt']
+                    created_parse = dateutil.parser.parse(created_at)
+                    merged_parse = dateutil.parser.parse(merged_at)
+                    diferenca_entre_criacao_e_merge = merged_parse - created_parse
+                    calc_diferenca_datas = diferenca_entre_criacao_e_merge.seconds / 3600 % 24
 
-                    # Vai montar em um dicionário os resultados da query dos merged request
-                    data = dict(total_count=resultado_query['data']['repository']['merged']['totalCount'],
-                                created_at=resultado_query['data']['repository']['merged']['nodes'][y]['createdAt'],
-                                merged_at=resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt'],
-                                body_text=quantidade_caracteres_body_text,
-                                id_pr=resultado_query['data']['repository']['merged']['nodes'][y]['id'],
-                                reviews=resultado_query['data']['repository']['merged']['nodes'][y]['reviews'][
-                                    'totalCount'],
-                                participants=
-                                resultado_query['data']['repository']['merged']['nodes'][y]['participants'][
-                                    'totalCount'],
-                                files=resultado_query['data']['repository']['merged']['nodes'][y]['files'][
-                                    'totalCount'])
-                    # Adiciona na lista os resultados obtidos por página
-                    merged_prs.append(data)
-                    print(merged_prs)
+                    # Só iremos colocar no dicionário request que tenham pelo menos uma revisão
+                    # E também a data de criação do PR tenha pelo menos uma hora
+                    reviews_quantidade = resultado_query['data']['repository']['merged']['nodes'][y]['reviews']['totalCount']
+                    if reviews_quantidade >= 1 and calc_diferenca_datas >= 1:
+                        # Vai montar em um dicionário os resultados da query dos merged request
+                        data = dict(total_count=resultado_query['data']['repository']['merged']['totalCount'],
+                                    created_at=resultado_query['data']['repository']['merged']['nodes'][y]['createdAt'],
+                                    merged_at=resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt'],
+                                    body_text=quantidade_caracteres_body_text,
+                                    id_pr=resultado_query['data']['repository']['merged']['nodes'][y]['id'],
+                                    reviews=reviews_quantidade,
+                                    participants=
+                                    resultado_query['data']['repository']['merged']['nodes'][y]['participants'][
+                                        'totalCount'],
+                                    files=resultado_query['data']['repository']['merged']['nodes'][y]['files'][
+                                        'totalCount'])
+                        # Adiciona na lista os resultados obtidos por página
+                        merged_prs.append(data)
+                        print(merged_prs)
             # Salva em um arquivo JSON os resultados obtidos na lista a cada iteração por página (5 por página)
-            with open(f"merged_data_{owner}_{name}_{quantidade_repo}.json", "w") as file:
+            with open(f"data_json\\merged_data_{owner}_{name}_{quantidade_repo}.json", "w") as file:
                 json.dump(merged_prs, file, indent=4)
         else:
             continue
