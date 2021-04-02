@@ -1,0 +1,1052 @@
+[
+    {
+        "nameOwner": "freeCodeCamp/freeCodeCamp",
+        "nameRepository": "freeCodeCamp",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+        "sshUrl": "git@github.com:freeCodeCamp/freeCodeCamp.git",
+        "createdAt": "2014-12-24",
+        "prMerged": 14191,
+        "prClosed": 11685,
+        "owner": "freeCodeCamp"
+    },
+    {
+        "nameOwner": "996icu/996.ICU",
+        "nameRepository": "996.ICU",
+        "url": "https://github.com/996icu/996.ICU",
+        "sshUrl": "git@github.com:996icu/996.ICU.git",
+        "createdAt": "2019-03-26",
+        "prMerged": 1020,
+        "prClosed": 796,
+        "owner": "996icu"
+    },
+    {
+        "nameOwner": "EbookFoundation/free-programming-books",
+        "nameRepository": "free-programming-books",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "sshUrl": "git@github.com:EbookFoundation/free-programming-books.git",
+        "createdAt": "2013-10-11",
+        "prMerged": 3430,
+        "prClosed": 1242,
+        "owner": "EbookFoundation"
+    },
+    {
+        "nameOwner": "vuejs/vue",
+        "nameRepository": "vue",
+        "url": "https://github.com/vuejs/vue",
+        "sshUrl": "git@github.com:vuejs/vue.git",
+        "createdAt": "2013-07-29",
+        "prMerged": 1017,
+        "prClosed": 762,
+        "owner": "vuejs"
+    },
+    {
+        "nameOwner": "facebook/react",
+        "nameRepository": "react",
+        "url": "https://github.com/facebook/react",
+        "sshUrl": "git@github.com:facebook/react.git",
+        "createdAt": "2013-05-24",
+        "prMerged": 7432,
+        "prClosed": 3125,
+        "owner": "facebook"
+    },
+    {
+        "nameOwner": "jwasham/coding-interview-university",
+        "nameRepository": "coding-interview-university",
+        "url": "https://github.com/jwasham/coding-interview-university",
+        "sshUrl": "git@github.com:jwasham/coding-interview-university.git",
+        "createdAt": "2016-06-06",
+        "prMerged": 221,
+        "prClosed": 305,
+        "owner": "jwasham"
+    },
+    {
+        "nameOwner": "sindresorhus/awesome",
+        "nameRepository": "awesome",
+        "url": "https://github.com/sindresorhus/awesome",
+        "sshUrl": "git@github.com:sindresorhus/awesome.git",
+        "createdAt": "2014-07-11",
+        "prMerged": 530,
+        "prClosed": 1082,
+        "owner": "sindresorhus"
+    },
+    {
+        "nameOwner": "tensorflow/tensorflow",
+        "nameRepository": "tensorflow",
+        "url": "https://github.com/tensorflow/tensorflow",
+        "sshUrl": "git@github.com:tensorflow/tensorflow.git",
+        "createdAt": "2015-11-07",
+        "prMerged": 11727,
+        "prClosed": 5082,
+        "owner": "tensorflow"
+    },
+    {
+        "nameOwner": "kamranahmedse/developer-roadmap",
+        "nameRepository": "developer-roadmap",
+        "url": "https://github.com/kamranahmedse/developer-roadmap",
+        "sshUrl": "git@github.com:kamranahmedse/developer-roadmap.git",
+        "createdAt": "2017-03-15",
+        "prMerged": 62,
+        "prClosed": 119,
+        "owner": "kamranahmedse"
+    },
+    {
+        "nameOwner": "twbs/bootstrap",
+        "nameRepository": "bootstrap",
+        "url": "https://github.com/twbs/bootstrap",
+        "sshUrl": "git@github.com:twbs/bootstrap.git",
+        "createdAt": "2011-07-29",
+        "prMerged": 6746,
+        "prClosed": 5465,
+        "owner": "twbs"
+    },
+    {
+        "nameOwner": "getify/You-Dont-Know-JS",
+        "nameRepository": "You-Dont-Know-JS",
+        "url": "https://github.com/getify/You-Dont-Know-JS",
+        "sshUrl": "git@github.com:getify/You-Dont-Know-JS.git",
+        "createdAt": "2013-11-16",
+        "prMerged": 350,
+        "prClosed": 440,
+        "owner": "getify"
+    },
+    {
+        "nameOwner": "ohmyzsh/ohmyzsh",
+        "nameRepository": "ohmyzsh",
+        "url": "https://github.com/ohmyzsh/ohmyzsh",
+        "sshUrl": "git@github.com:ohmyzsh/ohmyzsh.git",
+        "createdAt": "2009-08-28",
+        "prMerged": 2410,
+        "prClosed": 3029,
+        "owner": "ohmyzsh"
+    },
+    {
+        "nameOwner": "donnemartin/system-design-primer",
+        "nameRepository": "system-design-primer",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "sshUrl": "git@github.com:donnemartin/system-design-primer.git",
+        "createdAt": "2017-02-26",
+        "prMerged": 187,
+        "prClosed": 60,
+        "owner": "donnemartin"
+    },
+    {
+        "nameOwner": "CyC2018/CS-Notes",
+        "nameRepository": "CS-Notes",
+        "url": "https://github.com/CyC2018/CS-Notes",
+        "sshUrl": "git@github.com:CyC2018/CS-Notes.git",
+        "createdAt": "2018-02-13",
+        "prMerged": 375,
+        "prClosed": 145,
+        "owner": "CyC2018"
+    },
+    {
+        "nameOwner": "flutter/flutter",
+        "nameRepository": "flutter",
+        "url": "https://github.com/flutter/flutter",
+        "sshUrl": "git@github.com:flutter/flutter.git",
+        "createdAt": "2015-03-06",
+        "prMerged": 19341,
+        "prClosed": 7365,
+        "owner": "flutter"
+    },
+    {
+        "nameOwner": "github/gitignore",
+        "nameRepository": "gitignore",
+        "url": "https://github.com/github/gitignore",
+        "sshUrl": "git@github.com:github/gitignore.git",
+        "createdAt": "2010-11-08",
+        "prMerged": 1414,
+        "prClosed": 1909,
+        "owner": "github"
+    },
+    {
+        "nameOwner": "public-apis/public-apis",
+        "nameRepository": "public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "sshUrl": "git@github.com:public-apis/public-apis.git",
+        "createdAt": "2016-03-20",
+        "prMerged": 920,
+        "prClosed": 316,
+        "owner": "public-apis"
+    },
+    {
+        "nameOwner": "microsoft/vscode",
+        "nameRepository": "vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "sshUrl": "git@github.com:microsoft/vscode.git",
+        "createdAt": "2015-09-03",
+        "prMerged": 6558,
+        "prClosed": 2313,
+        "owner": "microsoft"
+    },
+    {
+        "nameOwner": "torvalds/linux",
+        "nameRepository": "linux",
+        "url": "https://github.com/torvalds/linux",
+        "sshUrl": "git@github.com:torvalds/linux.git",
+        "createdAt": "2011-09-04",
+        "prMerged": 9,
+        "prClosed": 431,
+        "owner": "torvalds"
+    },
+    {
+        "nameOwner": "airbnb/javascript",
+        "nameRepository": "javascript",
+        "url": "https://github.com/airbnb/javascript",
+        "sshUrl": "git@github.com:airbnb/javascript.git",
+        "createdAt": "2012-11-01",
+        "prMerged": 759,
+        "prClosed": 480,
+        "owner": "airbnb"
+    },
+    {
+        "nameOwner": "trekhleb/javascript-algorithms",
+        "nameRepository": "javascript-algorithms",
+        "url": "https://github.com/trekhleb/javascript-algorithms",
+        "sshUrl": "git@github.com:trekhleb/javascript-algorithms.git",
+        "createdAt": "2018-03-24",
+        "prMerged": 198,
+        "prClosed": 121,
+        "owner": "trekhleb"
+    },
+    {
+        "nameOwner": "danistefanovic/build-your-own-x",
+        "nameRepository": "build-your-own-x",
+        "url": "https://github.com/danistefanovic/build-your-own-x",
+        "sshUrl": "git@github.com:danistefanovic/build-your-own-x.git",
+        "createdAt": "2018-05-09",
+        "prMerged": 83,
+        "prClosed": 42,
+        "owner": "danistefanovic"
+    },
+    {
+        "nameOwner": "TheAlgorithms/Python",
+        "nameRepository": "Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "sshUrl": "git@github.com:TheAlgorithms/Python.git",
+        "createdAt": "2016-07-16",
+        "prMerged": 1497,
+        "prClosed": 2078,
+        "owner": "TheAlgorithms"
+    },
+    {
+        "nameOwner": "jackfrued/Python-100-Days",
+        "nameRepository": "Python-100-Days",
+        "url": "https://github.com/jackfrued/Python-100-Days",
+        "sshUrl": "git@github.com:jackfrued/Python-100-Days.git",
+        "createdAt": "2018-03-01",
+        "prMerged": 12,
+        "prClosed": 82,
+        "owner": "jackfrued"
+    },
+    {
+        "nameOwner": "Snailclimb/JavaGuide",
+        "nameRepository": "JavaGuide",
+        "url": "https://github.com/Snailclimb/JavaGuide",
+        "sshUrl": "git@github.com:Snailclimb/JavaGuide.git",
+        "createdAt": "2018-05-07",
+        "prMerged": 402,
+        "prClosed": 176,
+        "owner": "Snailclimb"
+    },
+    {
+        "nameOwner": "d3/d3",
+        "nameRepository": "d3",
+        "url": "https://github.com/d3/d3",
+        "sshUrl": "git@github.com:d3/d3.git",
+        "createdAt": "2010-09-27",
+        "prMerged": 436,
+        "prClosed": 665,
+        "owner": "d3"
+    },
+    {
+        "nameOwner": "vinta/awesome-python",
+        "nameRepository": "awesome-python",
+        "url": "https://github.com/vinta/awesome-python",
+        "sshUrl": "git@github.com:vinta/awesome-python.git",
+        "createdAt": "2014-06-27",
+        "prMerged": 523,
+        "prClosed": 857,
+        "owner": "vinta"
+    },
+    {
+        "nameOwner": "facebook/react-native",
+        "nameRepository": "react-native",
+        "url": "https://github.com/facebook/react-native",
+        "sshUrl": "git@github.com:facebook/react-native.git",
+        "createdAt": "2015-01-09",
+        "prMerged": 617,
+        "prClosed": 8972,
+        "owner": "facebook"
+    },
+    {
+        "nameOwner": "ytdl-org/youtube-dl",
+        "nameRepository": "youtube-dl",
+        "url": "https://github.com/ytdl-org/youtube-dl",
+        "sshUrl": "git@github.com:ytdl-org/youtube-dl.git",
+        "createdAt": "2010-10-31",
+        "prMerged": 1507,
+        "prClosed": 2076,
+        "owner": "ytdl-org"
+    },
+    {
+        "nameOwner": "electron/electron",
+        "nameRepository": "electron",
+        "url": "https://github.com/electron/electron",
+        "sshUrl": "git@github.com:electron/electron.git",
+        "createdAt": "2013-04-12",
+        "prMerged": 11550,
+        "prClosed": 1595,
+        "owner": "electron"
+    },
+    {
+        "nameOwner": "labuladong/fucking-algorithm",
+        "nameRepository": "fucking-algorithm",
+        "url": "https://github.com/labuladong/fucking-algorithm",
+        "sshUrl": "git@github.com:labuladong/fucking-algorithm.git",
+        "createdAt": "2020-02-19",
+        "prMerged": 199,
+        "prClosed": 176,
+        "owner": "labuladong"
+    },
+    {
+        "nameOwner": "facebook/create-react-app",
+        "nameRepository": "create-react-app",
+        "url": "https://github.com/facebook/create-react-app",
+        "sshUrl": "git@github.com:facebook/create-react-app.git",
+        "createdAt": "2016-07-17",
+        "prMerged": 1860,
+        "prClosed": 1495,
+        "owner": "facebook"
+    },
+    {
+        "nameOwner": "jlevy/the-art-of-command-line",
+        "nameRepository": "the-art-of-command-line",
+        "url": "https://github.com/jlevy/the-art-of-command-line",
+        "sshUrl": "git@github.com:jlevy/the-art-of-command-line.git",
+        "createdAt": "2015-05-20",
+        "prMerged": 303,
+        "prClosed": 120,
+        "owner": "jlevy"
+    },
+    {
+        "nameOwner": "golang/go",
+        "nameRepository": "go",
+        "url": "https://github.com/golang/go",
+        "sshUrl": "git@github.com:golang/go.git",
+        "createdAt": "2014-08-19",
+        "prMerged": 0,
+        "prClosed": 1325,
+        "owner": "golang"
+    },
+    {
+        "nameOwner": "axios/axios",
+        "nameRepository": "axios",
+        "url": "https://github.com/axios/axios",
+        "sshUrl": "git@github.com:axios/axios.git",
+        "createdAt": "2014-08-18",
+        "prMerged": 380,
+        "prClosed": 340,
+        "owner": "axios"
+    },
+    {
+        "nameOwner": "ossu/computer-science",
+        "nameRepository": "computer-science",
+        "url": "https://github.com/ossu/computer-science",
+        "sshUrl": "git@github.com:ossu/computer-science.git",
+        "createdAt": "2014-05-04",
+        "prMerged": 187,
+        "prClosed": 116,
+        "owner": "ossu"
+    },
+    {
+        "nameOwner": "justjavac/free-programming-books-zh_CN",
+        "nameRepository": "free-programming-books-zh_CN",
+        "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+        "sshUrl": "git@github.com:justjavac/free-programming-books-zh_CN.git",
+        "createdAt": "2013-11-04",
+        "prMerged": 269,
+        "prClosed": 132,
+        "owner": "justjavac"
+    },
+    {
+        "nameOwner": "nodejs/node",
+        "nameRepository": "node",
+        "url": "https://github.com/nodejs/node",
+        "sshUrl": "git@github.com:nodejs/node.git",
+        "createdAt": "2014-11-26",
+        "prMerged": 3020,
+        "prClosed": 20877,
+        "owner": "nodejs"
+    },
+    {
+        "nameOwner": "kubernetes/kubernetes",
+        "nameRepository": "kubernetes",
+        "url": "https://github.com/kubernetes/kubernetes",
+        "sshUrl": "git@github.com:kubernetes/kubernetes.git",
+        "createdAt": "2014-06-06",
+        "prMerged": 47036,
+        "prClosed": 14596,
+        "owner": "kubernetes"
+    },
+    {
+        "nameOwner": "denoland/deno",
+        "nameRepository": "deno",
+        "url": "https://github.com/denoland/deno",
+        "sshUrl": "git@github.com:denoland/deno.git",
+        "createdAt": "2018-05-15",
+        "prMerged": 4425,
+        "prClosed": 1234,
+        "owner": "denoland"
+    },
+    {
+        "nameOwner": "microsoft/terminal",
+        "nameRepository": "terminal",
+        "url": "https://github.com/microsoft/terminal",
+        "sshUrl": "git@github.com:microsoft/terminal.git",
+        "createdAt": "2017-08-11",
+        "prMerged": 1830,
+        "prClosed": 247,
+        "owner": "microsoft"
+    },
+    {
+        "nameOwner": "angular/angular",
+        "nameRepository": "angular",
+        "url": "https://github.com/angular/angular",
+        "sshUrl": "git@github.com:angular/angular.git",
+        "createdAt": "2014-09-18",
+        "prMerged": 2956,
+        "prClosed": 15178,
+        "owner": "angular"
+    },
+    {
+        "nameOwner": "30-seconds/30-seconds-of-code",
+        "nameRepository": "30-seconds-of-code",
+        "url": "https://github.com/30-seconds/30-seconds-of-code",
+        "sshUrl": "git@github.com:30-seconds/30-seconds-of-code.git",
+        "createdAt": "2017-11-29",
+        "prMerged": 738,
+        "prClosed": 640,
+        "owner": "30-seconds"
+    },
+    {
+        "nameOwner": "microsoft/TypeScript",
+        "nameRepository": "TypeScript",
+        "url": "https://github.com/microsoft/TypeScript",
+        "sshUrl": "git@github.com:microsoft/TypeScript.git",
+        "createdAt": "2014-06-17",
+        "prMerged": 10528,
+        "prClosed": 2182,
+        "owner": "microsoft"
+    },
+    {
+        "nameOwner": "puppeteer/puppeteer",
+        "nameRepository": "puppeteer",
+        "url": "https://github.com/puppeteer/puppeteer",
+        "sshUrl": "git@github.com:puppeteer/puppeteer.git",
+        "createdAt": "2017-05-09",
+        "prMerged": 1860,
+        "prClosed": 387,
+        "owner": "puppeteer"
+    },
+    {
+        "nameOwner": "animate-css/animate.css",
+        "nameRepository": "animate.css",
+        "url": "https://github.com/animate-css/animate.css",
+        "sshUrl": "git@github.com:animate-css/animate.css.git",
+        "createdAt": "2011-10-12",
+        "prMerged": 231,
+        "prClosed": 246,
+        "owner": "animate-css"
+    },
+    {
+        "nameOwner": "tensorflow/models",
+        "nameRepository": "models",
+        "url": "https://github.com/tensorflow/models",
+        "sshUrl": "git@github.com:tensorflow/models.git",
+        "createdAt": "2016-02-05",
+        "prMerged": 2148,
+        "prClosed": 1125,
+        "owner": "tensorflow"
+    },
+    {
+        "nameOwner": "mrdoob/three.js",
+        "nameRepository": "three.js",
+        "url": "https://github.com/mrdoob/three.js",
+        "sshUrl": "git@github.com:mrdoob/three.js.git",
+        "createdAt": "2010-03-23",
+        "prMerged": 8301,
+        "prClosed": 2701,
+        "owner": "mrdoob"
+    },
+    {
+        "nameOwner": "mui-org/material-ui",
+        "nameRepository": "material-ui",
+        "url": "https://github.com/mui-org/material-ui",
+        "sshUrl": "git@github.com:mui-org/material-ui.git",
+        "createdAt": "2014-08-18",
+        "prMerged": 10319,
+        "prClosed": 2291,
+        "owner": "mui-org"
+    },
+    {
+        "nameOwner": "PanJiaChen/vue-element-admin",
+        "nameRepository": "vue-element-admin",
+        "url": "https://github.com/PanJiaChen/vue-element-admin",
+        "sshUrl": "git@github.com:PanJiaChen/vue-element-admin.git",
+        "createdAt": "2017-04-17",
+        "prMerged": 313,
+        "prClosed": 141,
+        "owner": "PanJiaChen"
+    },
+    {
+        "nameOwner": "FortAwesome/Font-Awesome",
+        "nameRepository": "Font-Awesome",
+        "url": "https://github.com/FortAwesome/Font-Awesome",
+        "sshUrl": "git@github.com:FortAwesome/Font-Awesome.git",
+        "createdAt": "2012-02-17",
+        "prMerged": 183,
+        "prClosed": 405,
+        "owner": "FortAwesome"
+    },
+    {
+        "nameOwner": "vercel/next.js",
+        "nameRepository": "next.js",
+        "url": "https://github.com/vercel/next.js",
+        "sshUrl": "git@github.com:vercel/next.js.git",
+        "createdAt": "2016-10-05",
+        "prMerged": 6196,
+        "prClosed": 1556,
+        "owner": "vercel"
+    },
+    {
+        "nameOwner": "iluwatar/java-design-patterns",
+        "nameRepository": "java-design-patterns",
+        "url": "https://github.com/iluwatar/java-design-patterns",
+        "sshUrl": "git@github.com:iluwatar/java-design-patterns.git",
+        "createdAt": "2014-08-09",
+        "prMerged": 713,
+        "prClosed": 287,
+        "owner": "iluwatar"
+    },
+    {
+        "nameOwner": "laravel/laravel",
+        "nameRepository": "laravel",
+        "url": "https://github.com/laravel/laravel",
+        "sshUrl": "git@github.com:laravel/laravel.git",
+        "createdAt": "2011-06-08",
+        "prMerged": 1298,
+        "prClosed": 2620,
+        "owner": "laravel"
+    },
+    {
+        "nameOwner": "MisterBooo/LeetCodeAnimation",
+        "nameRepository": "LeetCodeAnimation",
+        "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+        "sshUrl": "git@github.com:MisterBooo/LeetCodeAnimation.git",
+        "createdAt": "2018-12-06",
+        "prMerged": 61,
+        "prClosed": 10,
+        "owner": "MisterBooo"
+    },
+    {
+        "nameOwner": "avelino/awesome-go",
+        "nameRepository": "awesome-go",
+        "url": "https://github.com/avelino/awesome-go",
+        "sshUrl": "git@github.com:avelino/awesome-go.git",
+        "createdAt": "2014-07-06",
+        "prMerged": 2352,
+        "prClosed": 882,
+        "owner": "avelino"
+    },
+    {
+        "nameOwner": "goldbergyoni/nodebestpractices",
+        "nameRepository": "nodebestpractices",
+        "url": "https://github.com/goldbergyoni/nodebestpractices",
+        "sshUrl": "git@github.com:goldbergyoni/nodebestpractices.git",
+        "createdAt": "2017-09-15",
+        "prMerged": 574,
+        "prClosed": 92,
+        "owner": "goldbergyoni"
+    },
+    {
+        "nameOwner": "storybookjs/storybook",
+        "nameRepository": "storybook",
+        "url": "https://github.com/storybookjs/storybook",
+        "sshUrl": "git@github.com:storybookjs/storybook.git",
+        "createdAt": "2016-03-18",
+        "prMerged": 5370,
+        "prClosed": 1399,
+        "owner": "storybookjs"
+    },
+    {
+        "nameOwner": "moby/moby",
+        "nameRepository": "moby",
+        "url": "https://github.com/moby/moby",
+        "sshUrl": "git@github.com:moby/moby.git",
+        "createdAt": "2013-01-18",
+        "prMerged": 16679,
+        "prClosed": 4376,
+        "owner": "moby"
+    },
+    {
+        "nameOwner": "vuejs/awesome-vue",
+        "nameRepository": "awesome-vue",
+        "url": "https://github.com/vuejs/awesome-vue",
+        "sshUrl": "git@github.com:vuejs/awesome-vue.git",
+        "createdAt": "2015-10-20",
+        "prMerged": 3104,
+        "prClosed": 311,
+        "owner": "vuejs"
+    },
+    {
+        "nameOwner": "nvbn/thefuck",
+        "nameRepository": "thefuck",
+        "url": "https://github.com/nvbn/thefuck",
+        "sshUrl": "git@github.com:nvbn/thefuck.git",
+        "createdAt": "2015-04-08",
+        "prMerged": 429,
+        "prClosed": 88,
+        "owner": "nvbn"
+    },
+    {
+        "nameOwner": "angular/angular.js",
+        "nameRepository": "angular.js",
+        "url": "https://github.com/angular/angular.js",
+        "sshUrl": "git@github.com:angular/angular.js.git",
+        "createdAt": "2010-01-06",
+        "prMerged": 787,
+        "prClosed": 7109,
+        "owner": "angular"
+    },
+    {
+        "nameOwner": "webpack/webpack",
+        "nameRepository": "webpack",
+        "url": "https://github.com/webpack/webpack",
+        "sshUrl": "git@github.com:webpack/webpack.git",
+        "createdAt": "2012-03-10",
+        "prMerged": 3566,
+        "prClosed": 938,
+        "owner": "webpack"
+    },
+    {
+        "nameOwner": "django/django",
+        "nameRepository": "django",
+        "url": "https://github.com/django/django",
+        "sshUrl": "git@github.com:django/django.git",
+        "createdAt": "2012-04-28",
+        "prMerged": 6390,
+        "prClosed": 7625,
+        "owner": "django"
+    },
+    {
+        "nameOwner": "gothinkster/realworld",
+        "nameRepository": "realworld",
+        "url": "https://github.com/gothinkster/realworld",
+        "sshUrl": "git@github.com:gothinkster/realworld.git",
+        "createdAt": "2016-02-26",
+        "prMerged": 173,
+        "prClosed": 36,
+        "owner": "gothinkster"
+    },
+    {
+        "nameOwner": "hakimel/reveal.js",
+        "nameRepository": "reveal.js",
+        "url": "https://github.com/hakimel/reveal.js",
+        "sshUrl": "git@github.com:hakimel/reveal.js.git",
+        "createdAt": "2011-06-07",
+        "prMerged": 340,
+        "prClosed": 474,
+        "owner": "hakimel"
+    },
+    {
+        "nameOwner": "reduxjs/redux",
+        "nameRepository": "redux",
+        "url": "https://github.com/reduxjs/redux",
+        "sshUrl": "git@github.com:reduxjs/redux.git",
+        "createdAt": "2015-05-29",
+        "prMerged": 1393,
+        "prClosed": 724,
+        "owner": "reduxjs"
+    },
+    {
+        "nameOwner": "apple/swift",
+        "nameRepository": "swift",
+        "url": "https://github.com/apple/swift",
+        "sshUrl": "git@github.com:apple/swift.git",
+        "createdAt": "2015-10-23",
+        "prMerged": 32044,
+        "prClosed": 4180,
+        "owner": "apple"
+    },
+    {
+        "nameOwner": "awesome-selfhosted/awesome-selfhosted",
+        "nameRepository": "awesome-selfhosted",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "sshUrl": "git@github.com:awesome-selfhosted/awesome-selfhosted.git",
+        "createdAt": "2015-06-01",
+        "prMerged": 1512,
+        "prClosed": 340,
+        "owner": "awesome-selfhosted"
+    },
+    {
+        "nameOwner": "tonsky/FiraCode",
+        "nameRepository": "FiraCode",
+        "url": "https://github.com/tonsky/FiraCode",
+        "sshUrl": "git@github.com:tonsky/FiraCode.git",
+        "createdAt": "2014-11-11",
+        "prMerged": 102,
+        "prClosed": 39,
+        "owner": "tonsky"
+    },
+    {
+        "nameOwner": "atom/atom",
+        "nameRepository": "atom",
+        "url": "https://github.com/atom/atom",
+        "sshUrl": "git@github.com:atom/atom.git",
+        "createdAt": "2012-01-20",
+        "prMerged": 3790,
+        "prClosed": 1120,
+        "owner": "atom"
+    },
+    {
+        "nameOwner": "jquery/jquery",
+        "nameRepository": "jquery",
+        "url": "https://github.com/jquery/jquery",
+        "sshUrl": "git@github.com:jquery/jquery.git",
+        "createdAt": "2009-04-03",
+        "prMerged": 507,
+        "prClosed": 2158,
+        "owner": "jquery"
+    },
+    {
+        "nameOwner": "pallets/flask",
+        "nameRepository": "flask",
+        "url": "https://github.com/pallets/flask",
+        "sshUrl": "git@github.com:pallets/flask.git",
+        "createdAt": "2010-04-06",
+        "prMerged": 1145,
+        "prClosed": 700,
+        "owner": "pallets"
+    },
+    {
+        "nameOwner": "elastic/elasticsearch",
+        "nameRepository": "elasticsearch",
+        "url": "https://github.com/elastic/elasticsearch",
+        "sshUrl": "git@github.com:elastic/elasticsearch.git",
+        "createdAt": "2010-02-08",
+        "prMerged": 37342,
+        "prClosed": 6655,
+        "owner": "elastic"
+    },
+    {
+        "nameOwner": "spring-projects/spring-boot",
+        "nameRepository": "spring-boot",
+        "url": "https://github.com/spring-projects/spring-boot",
+        "sshUrl": "git@github.com:spring-projects/spring-boot.git",
+        "createdAt": "2012-10-19",
+        "prMerged": 41,
+        "prClosed": 4600,
+        "owner": "spring-projects"
+    },
+    {
+        "nameOwner": "rust-lang/rust",
+        "nameRepository": "rust",
+        "url": "https://github.com/rust-lang/rust",
+        "sshUrl": "git@github.com:rust-lang/rust.git",
+        "createdAt": "2010-06-16",
+        "prMerged": 33724,
+        "prClosed": 10930,
+        "owner": "rust-lang"
+    },
+    {
+        "nameOwner": "opencv/opencv",
+        "nameRepository": "opencv",
+        "url": "https://github.com/opencv/opencv",
+        "sshUrl": "git@github.com:opencv/opencv.git",
+        "createdAt": "2012-07-19",
+        "prMerged": 9618,
+        "prClosed": 2223,
+        "owner": "opencv"
+    },
+    {
+        "nameOwner": "doocs/advanced-java",
+        "nameRepository": "advanced-java",
+        "url": "https://github.com/doocs/advanced-java",
+        "sshUrl": "git@github.com:doocs/advanced-java.git",
+        "createdAt": "2018-10-06",
+        "prMerged": 58,
+        "prClosed": 28,
+        "owner": "doocs"
+    },
+    {
+        "nameOwner": "typicode/json-server",
+        "nameRepository": "json-server",
+        "url": "https://github.com/typicode/json-server",
+        "sshUrl": "git@github.com:typicode/json-server.git",
+        "createdAt": "2013-11-27",
+        "prMerged": 96,
+        "prClosed": 109,
+        "owner": "typicode"
+    },
+    {
+        "nameOwner": "socketio/socket.io",
+        "nameRepository": "socket.io",
+        "url": "https://github.com/socketio/socket.io",
+        "sshUrl": "git@github.com:socketio/socket.io.git",
+        "createdAt": "2010-03-11",
+        "prMerged": 393,
+        "prClosed": 372,
+        "owner": "socketio"
+    },
+    {
+        "nameOwner": "chartjs/Chart.js",
+        "nameRepository": "Chart.js",
+        "url": "https://github.com/chartjs/Chart.js",
+        "sshUrl": "git@github.com:chartjs/Chart.js.git",
+        "createdAt": "2013-03-17",
+        "prMerged": 2219,
+        "prClosed": 721,
+        "owner": "chartjs"
+    },
+    {
+        "nameOwner": "expressjs/express",
+        "nameRepository": "express",
+        "url": "https://github.com/expressjs/express",
+        "sshUrl": "git@github.com:expressjs/express.git",
+        "createdAt": "2009-06-26",
+        "prMerged": 211,
+        "prClosed": 757,
+        "owner": "expressjs"
+    },
+    {
+        "nameOwner": "xingshaocheng/architect-awesome",
+        "nameRepository": "architect-awesome",
+        "url": "https://github.com/xingshaocheng/architect-awesome",
+        "sshUrl": "git@github.com:xingshaocheng/architect-awesome.git",
+        "createdAt": "2018-04-06",
+        "prMerged": 49,
+        "prClosed": 12,
+        "owner": "xingshaocheng"
+    },
+    {
+        "nameOwner": "microsoft/PowerToys",
+        "nameRepository": "PowerToys",
+        "url": "https://github.com/microsoft/PowerToys",
+        "sshUrl": "git@github.com:microsoft/PowerToys.git",
+        "createdAt": "2019-05-01",
+        "prMerged": 2237,
+        "prClosed": 283,
+        "owner": "microsoft"
+    },
+    {
+        "nameOwner": "netdata/netdata",
+        "nameRepository": "netdata",
+        "url": "https://github.com/netdata/netdata",
+        "sshUrl": "git@github.com:netdata/netdata.git",
+        "createdAt": "2013-06-17",
+        "prMerged": 4152,
+        "prClosed": 471,
+        "owner": "netdata"
+    },
+    {
+        "nameOwner": "shadowsocks/shadowsocks-windows",
+        "nameRepository": "shadowsocks-windows",
+        "url": "https://github.com/shadowsocks/shadowsocks-windows",
+        "sshUrl": "git@github.com:shadowsocks/shadowsocks-windows.git",
+        "createdAt": "2013-01-14",
+        "prMerged": 262,
+        "prClosed": 188,
+        "owner": "shadowsocks"
+    },
+    {
+        "nameOwner": "bitcoin/bitcoin",
+        "nameRepository": "bitcoin",
+        "url": "https://github.com/bitcoin/bitcoin",
+        "sshUrl": "git@github.com:bitcoin/bitcoin.git",
+        "createdAt": "2010-12-19",
+        "prMerged": 10019,
+        "prClosed": 4611,
+        "owner": "bitcoin"
+    },
+    {
+        "nameOwner": "yangshun/tech-interview-handbook",
+        "nameRepository": "tech-interview-handbook",
+        "url": "https://github.com/yangshun/tech-interview-handbook",
+        "sshUrl": "git@github.com:yangshun/tech-interview-handbook.git",
+        "createdAt": "2016-07-05",
+        "prMerged": 129,
+        "prClosed": 38,
+        "owner": "yangshun"
+    },
+    {
+        "nameOwner": "gohugoio/hugo",
+        "nameRepository": "hugo",
+        "url": "https://github.com/gohugoio/hugo",
+        "sshUrl": "git@github.com:gohugoio/hugo.git",
+        "createdAt": "2013-07-04",
+        "prMerged": 1326,
+        "prClosed": 1680,
+        "owner": "gohugoio"
+    },
+    {
+        "nameOwner": "keras-team/keras",
+        "nameRepository": "keras",
+        "url": "https://github.com/keras-team/keras",
+        "sshUrl": "git@github.com:keras-team/keras.git",
+        "createdAt": "2015-03-28",
+        "prMerged": 2417,
+        "prClosed": 1641,
+        "owner": "keras-team"
+    },
+    {
+        "nameOwner": "adam-p/markdown-here",
+        "nameRepository": "markdown-here",
+        "url": "https://github.com/adam-p/markdown-here",
+        "sshUrl": "git@github.com:adam-p/markdown-here.git",
+        "createdAt": "2012-05-13",
+        "prMerged": 20,
+        "prClosed": 25,
+        "owner": "adam-p"
+    },
+    {
+        "nameOwner": "kdn251/interviews",
+        "nameRepository": "interviews",
+        "url": "https://github.com/kdn251/interviews",
+        "sshUrl": "git@github.com:kdn251/interviews.git",
+        "createdAt": "2017-02-14",
+        "prMerged": 42,
+        "prClosed": 33,
+        "owner": "kdn251"
+    },
+    {
+        "nameOwner": "chrislgarry/Apollo-11",
+        "nameRepository": "Apollo-11",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "sshUrl": "git@github.com:chrislgarry/Apollo-11.git",
+        "createdAt": "2014-04-03",
+        "prMerged": 292,
+        "prClosed": 87,
+        "owner": "chrislgarry"
+    },
+    {
+        "nameOwner": "httpie/httpie",
+        "nameRepository": "httpie",
+        "url": "https://github.com/httpie/httpie",
+        "sshUrl": "git@github.com:httpie/httpie.git",
+        "createdAt": "2012-02-25",
+        "prMerged": 144,
+        "prClosed": 127,
+        "owner": "httpie"
+    },
+    {
+        "nameOwner": "thedaviddias/Front-End-Checklist",
+        "nameRepository": "Front-End-Checklist",
+        "url": "https://github.com/thedaviddias/Front-End-Checklist",
+        "sshUrl": "git@github.com:thedaviddias/Front-End-Checklist.git",
+        "createdAt": "2017-10-16",
+        "prMerged": 164,
+        "prClosed": 104,
+        "owner": "thedaviddias"
+    },
+    {
+        "nameOwner": "gatsbyjs/gatsby",
+        "nameRepository": "gatsby",
+        "url": "https://github.com/gatsbyjs/gatsby",
+        "sshUrl": "git@github.com:gatsbyjs/gatsby.git",
+        "createdAt": "2015-05-21",
+        "prMerged": 14431,
+        "prClosed": 2782,
+        "owner": "gatsbyjs"
+    },
+    {
+        "nameOwner": "ElemeFE/element",
+        "nameRepository": "element",
+        "url": "https://github.com/ElemeFE/element",
+        "sshUrl": "git@github.com:ElemeFE/element.git",
+        "createdAt": "2016-09-03",
+        "prMerged": 3095,
+        "prClosed": 1188,
+        "owner": "ElemeFE"
+    },
+    {
+        "nameOwner": "josephmisiti/awesome-machine-learning",
+        "nameRepository": "awesome-machine-learning",
+        "url": "https://github.com/josephmisiti/awesome-machine-learning",
+        "sshUrl": "git@github.com:josephmisiti/awesome-machine-learning.git",
+        "createdAt": "2014-07-15",
+        "prMerged": 671,
+        "prClosed": 36,
+        "owner": "josephmisiti"
+    },
+    {
+        "nameOwner": "h5bp/html5-boilerplate",
+        "nameRepository": "html5-boilerplate",
+        "url": "https://github.com/h5bp/html5-boilerplate",
+        "sshUrl": "git@github.com:h5bp/html5-boilerplate.git",
+        "createdAt": "2010-01-24",
+        "prMerged": 454,
+        "prClosed": 778,
+        "owner": "h5bp"
+    },
+    {
+        "nameOwner": "Semantic-Org/Semantic-UI",
+        "nameRepository": "Semantic-UI",
+        "url": "https://github.com/Semantic-Org/Semantic-UI",
+        "sshUrl": "git@github.com:Semantic-Org/Semantic-UI.git",
+        "createdAt": "2013-04-08",
+        "prMerged": 351,
+        "prClosed": 404,
+        "owner": "Semantic-Org"
+    },
+    {
+        "nameOwner": "lodash/lodash",
+        "nameRepository": "lodash",
+        "url": "https://github.com/lodash/lodash",
+        "sshUrl": "git@github.com:lodash/lodash.git",
+        "createdAt": "2012-04-07",
+        "prMerged": 571,
+        "prClosed": 535,
+        "owner": "lodash"
+    },
+    {
+        "nameOwner": "ryanmcdermott/clean-code-javascript",
+        "nameRepository": "clean-code-javascript",
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+        "sshUrl": "git@github.com:ryanmcdermott/clean-code-javascript.git",
+        "createdAt": "2016-11-25",
+        "prMerged": 145,
+        "prClosed": 69,
+        "owner": "ryanmcdermott"
+    },
+    {
+        "nameOwner": "h5bp/Front-end-Developer-Interview-Questions",
+        "nameRepository": "Front-end-Developer-Interview-Questions",
+        "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+        "sshUrl": "git@github.com:h5bp/Front-end-Developer-Interview-Questions.git",
+        "createdAt": "2012-02-09",
+        "prMerged": 365,
+        "prClosed": 162,
+        "owner": "h5bp"
+    },
+    {
+        "nameOwner": "resume/resume.github.com",
+        "nameRepository": "resume.github.com",
+        "url": "https://github.com/resume/resume.github.com",
+        "sshUrl": "git@github.com:resume/resume.github.com.git",
+        "createdAt": "2011-02-06",
+        "prMerged": 84,
+        "prClosed": 84,
+        "owner": "resume"
+    },
+    {
+        "nameOwner": "redis/redis",
+        "nameRepository": "redis",
+        "url": "https://github.com/redis/redis",
+        "sshUrl": "git@github.com:redis/redis.git",
+        "createdAt": "2009-03-21",
+        "prMerged": 1784,
+        "prClosed": 1504,
+        "owner": "redis"
+    }
+]

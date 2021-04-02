@@ -14,7 +14,8 @@ def write_data_to_json():
             "sshUrl": item["sshUrl"],
             "createdAt": (item["createdAt"])[:10],
             "prMerged": item["mr"]["totalCount"],
-            "prClosed": item["mc"]["totalCount"]
+            "prClosed": item["mc"]["totalCount"],
+            "owner": item["owner"]["login"]
         }
         repos.append(data)
     with open("repo_data.json", "w") as f:

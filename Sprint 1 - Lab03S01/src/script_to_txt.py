@@ -19,7 +19,11 @@ def write_data_to_txt():
     counter = 0
     for item in ans:
         # strip -> methods removes any spaces at the beginning and spaces at the end
-        urls_git_to_save_file += item['url'].strip() + "," + item['nameWithOwner'] + item['name'] + "\n"
+        urls_git_to_save_file += \
+            item['url'].strip() + "," + \
+            item['nameWithOwner'] + "," + \
+            item['owner']['login'] + "," + \
+            item['name'] + "\n"
 
         counter += 1
         print(f'Saving in txt file... {counter}')
