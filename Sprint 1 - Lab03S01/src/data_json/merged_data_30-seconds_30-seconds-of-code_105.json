@@ -1,0 +1,3012 @@
+[
+    {
+        "total_count": 739,
+        "created_at": "2017-12-11T19:26:34Z",
+        "merged_at": "2017-12-12T13:37:53Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NjUwNDYy",
+        "reviews": 2,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T00:47:57Z",
+        "merged_at": "2017-12-12T08:56:25Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzA5OTgx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T01:34:13Z",
+        "merged_at": "2017-12-12T09:08:33Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzE1ODcy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T01:55:09Z",
+        "merged_at": "2017-12-12T18:52:34Z",
+        "body_text": 96,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzE4MjA1",
+        "reviews": 2,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T02:29:46Z",
+        "merged_at": "2017-12-12T09:16:01Z",
+        "body_text": 39,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzIyMTcz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T06:44:04Z",
+        "merged_at": "2017-12-12T09:13:49Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzQ4Njk5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T06:59:48Z",
+        "merged_at": "2017-12-12T09:25:35Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzUwNjk3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T07:11:37Z",
+        "merged_at": "2017-12-12T14:07:36Z",
+        "body_text": 82,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzUyMzI4",
+        "reviews": 6,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T10:39:03Z",
+        "merged_at": "2017-12-12T14:23:01Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzkyMTI3",
+        "reviews": 3,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T16:30:27Z",
+        "merged_at": "2017-12-13T10:12:43Z",
+        "body_text": 206,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3ODc1OTgy",
+        "reviews": 4,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T16:37:36Z",
+        "merged_at": "2017-12-13T10:04:56Z",
+        "body_text": 146,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3ODc4MTAy",
+        "reviews": 2,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T17:53:37Z",
+        "merged_at": "2017-12-12T18:56:31Z",
+        "body_text": 72,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3ODk2OTYz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T18:25:00Z",
+        "merged_at": "2017-12-13T11:54:38Z",
+        "body_text": 394,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3OTAzNTA2",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T19:35:31Z",
+        "merged_at": "2017-12-13T09:31:51Z",
+        "body_text": 70,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3OTE5MjY4",
+        "reviews": 1,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T20:32:03Z",
+        "merged_at": "2017-12-13T10:37:50Z",
+        "body_text": 207,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3OTMxNjQw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T22:26:27Z",
+        "merged_at": "2017-12-13T11:33:50Z",
+        "body_text": 263,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3OTU1ODM0",
+        "reviews": 2,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-12T23:04:02Z",
+        "merged_at": "2017-12-13T09:46:56Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3OTYyODA3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T05:48:51Z",
+        "merged_at": "2017-12-13T12:14:47Z",
+        "body_text": 81,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MDA4NTQ2",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T07:37:25Z",
+        "merged_at": "2017-12-13T09:36:29Z",
+        "body_text": 79,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MDIyMTM3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T08:14:38Z",
+        "merged_at": "2017-12-13T09:29:41Z",
+        "body_text": 82,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MDI3OTEy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T10:36:06Z",
+        "merged_at": "2017-12-13T12:18:15Z",
+        "body_text": 52,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MDU2NjYw",
+        "reviews": 13,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T12:01:44Z",
+        "merged_at": "2017-12-14T09:29:31Z",
+        "body_text": 168,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MDc1MTY1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T14:04:35Z",
+        "merged_at": "2017-12-14T08:15:55Z",
+        "body_text": 245,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MTAxOTE3",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T16:13:10Z",
+        "merged_at": "2017-12-14T10:48:26Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MTM2NzEx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T19:20:42Z",
+        "merged_at": "2017-12-14T08:23:14Z",
+        "body_text": 109,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MTgxMDkw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T20:43:35Z",
+        "merged_at": "2017-12-14T08:34:47Z",
+        "body_text": 104,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MTk4OTI4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T20:49:20Z",
+        "merged_at": "2017-12-14T08:45:47Z",
+        "body_text": 100,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjAwMDYw",
+        "reviews": 3,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T21:53:36Z",
+        "merged_at": "2017-12-13T23:32:58Z",
+        "body_text": 65,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjE1MDQ1",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T21:56:54Z",
+        "merged_at": "2017-12-14T09:13:52Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjE1NzMx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 0
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T22:07:32Z",
+        "merged_at": "2017-12-13T23:44:46Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjE3OTY0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-13T22:42:38Z",
+        "merged_at": "2017-12-13T23:48:01Z",
+        "body_text": 167,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjI0NjYy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T00:12:43Z",
+        "merged_at": "2017-12-14T08:32:41Z",
+        "body_text": 125,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjM4NzMw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T05:21:34Z",
+        "merged_at": "2017-12-14T08:25:29Z",
+        "body_text": 35,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MjcwOTU3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T06:23:25Z",
+        "merged_at": "2017-12-14T08:06:23Z",
+        "body_text": 262,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4Mjc3MzUz",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T12:39:17Z",
+        "merged_at": "2017-12-14T18:25:17Z",
+        "body_text": 59,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MzQ2ODA0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T13:20:44Z",
+        "merged_at": "2017-12-18T10:12:14Z",
+        "body_text": 106,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MzU1NDYw",
+        "reviews": 1,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T14:32:25Z",
+        "merged_at": "2017-12-15T11:16:09Z",
+        "body_text": 61,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MzcyMDkz",
+        "reviews": 3,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T15:11:52Z",
+        "merged_at": "2017-12-14T18:12:47Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MzgxOTI5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T15:12:46Z",
+        "merged_at": "2017-12-16T12:23:49Z",
+        "body_text": 61,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4MzgyMTc2",
+        "reviews": 2,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T16:57:37Z",
+        "merged_at": "2017-12-14T18:48:05Z",
+        "body_text": 79,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDEwNDQw",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T18:54:49Z",
+        "merged_at": "2017-12-14T20:54:56Z",
+        "body_text": 40,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDM1NTM5",
+        "reviews": 3,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T19:40:39Z",
+        "merged_at": "2017-12-16T12:37:53Z",
+        "body_text": 34,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDQ1Mjk2",
+        "reviews": 4,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T22:04:44Z",
+        "merged_at": "2017-12-16T11:42:16Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDc0NzM0",
+        "reviews": 4,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T22:47:05Z",
+        "merged_at": "2017-12-15T10:43:06Z",
+        "body_text": 250,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDgyNTYz",
+        "reviews": 1,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-14T23:00:34Z",
+        "merged_at": "2017-12-15T10:42:50Z",
+        "body_text": 108,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDg0ODgw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T00:02:59Z",
+        "merged_at": "2017-12-15T12:36:49Z",
+        "body_text": 123,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDkzOTk0",
+        "reviews": 3,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T00:09:02Z",
+        "merged_at": "2017-12-15T10:42:38Z",
+        "body_text": 346,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NDk0Nzcx",
+        "reviews": 5,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T06:19:52Z",
+        "merged_at": "2017-12-15T11:52:39Z",
+        "body_text": 52,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NTMxMDIx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T06:53:17Z",
+        "merged_at": "2017-12-15T10:42:23Z",
+        "body_text": 69,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NTM0NjAx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T07:41:14Z",
+        "merged_at": "2017-12-15T10:42:13Z",
+        "body_text": 332,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NTQwNTQ3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T08:16:21Z",
+        "merged_at": "2017-12-15T10:42:02Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NTQ1NTM4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T08:48:43Z",
+        "merged_at": "2017-12-15T10:41:20Z",
+        "body_text": 34,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NTUwNDIx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T08:55:42Z",
+        "merged_at": "2017-12-16T16:36:11Z",
+        "body_text": 155,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NTUxNjI3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T13:37:14Z",
+        "merged_at": "2017-12-16T11:40:59Z",
+        "body_text": 102,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NjA0ODk4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T15:41:53Z",
+        "merged_at": "2017-12-16T11:51:31Z",
+        "body_text": 321,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NjMxNzgz",
+        "reviews": 1,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T16:48:32Z",
+        "merged_at": "2017-12-16T11:13:03Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NjQ2NDk5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T17:12:50Z",
+        "merged_at": "2017-12-16T11:34:31Z",
+        "body_text": 59,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NjUxNTEz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T17:58:12Z",
+        "merged_at": "2017-12-16T11:35:32Z",
+        "body_text": 114,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NjYwMDY1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-15T18:46:57Z",
+        "merged_at": "2017-12-16T11:06:32Z",
+        "body_text": 20,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NjY4Njgw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T07:02:19Z",
+        "merged_at": "2017-12-16T11:28:01Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzMzNjc3",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T10:01:26Z",
+        "merged_at": "2017-12-16T11:37:21Z",
+        "body_text": 129,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzM4NTU5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T10:12:13Z",
+        "merged_at": "2017-12-16T11:38:29Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzM4ODg2",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T12:34:53Z",
+        "merged_at": "2017-12-18T11:05:33Z",
+        "body_text": 95,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzQyOTMz",
+        "reviews": 2,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T13:50:53Z",
+        "merged_at": "2017-12-16T15:16:17Z",
+        "body_text": 57,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzQ1MjM5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T19:58:32Z",
+        "merged_at": "2017-12-17T09:27:02Z",
+        "body_text": 89,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzU4MDg2",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T21:40:35Z",
+        "merged_at": "2017-12-17T09:28:18Z",
+        "body_text": 89,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzYxNDUw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T21:57:50Z",
+        "merged_at": "2017-12-17T09:30:26Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzYxOTQ3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-16T22:46:57Z",
+        "merged_at": "2017-12-17T09:39:16Z",
+        "body_text": 78,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzYzMzM3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T04:09:47Z",
+        "merged_at": "2017-12-17T09:48:21Z",
+        "body_text": 676,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzcwNjU2",
+        "reviews": 2,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T06:21:18Z",
+        "merged_at": "2017-12-17T10:09:07Z",
+        "body_text": 655,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4NzczMjgx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T08:11:10Z",
+        "merged_at": "2017-12-18T10:16:27Z",
+        "body_text": 61,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4Nzc1OTA5",
+        "reviews": 2,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T18:22:47Z",
+        "merged_at": "2017-12-17T19:25:51Z",
+        "body_text": 37,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4Nzk3MTQ0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T23:40:17Z",
+        "merged_at": "2017-12-18T10:38:51Z",
+        "body_text": 48,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4ODA5OTc4",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T23:42:26Z",
+        "merged_at": "2017-12-19T10:28:14Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4ODEwMDU1",
+        "reviews": 2,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-17T23:52:57Z",
+        "merged_at": "2017-12-18T10:04:27Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4ODEwNTEz",
+        "reviews": 1,
+        "participants": 3,
+        "files": 8
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T14:16:18Z",
+        "merged_at": "2017-12-19T10:30:43Z",
+        "body_text": 123,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4OTI0MTY1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T18:01:55Z",
+        "merged_at": "2017-12-19T10:32:44Z",
+        "body_text": 52,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4OTgwMTc3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T18:16:16Z",
+        "merged_at": "2017-12-19T10:07:18Z",
+        "body_text": 47,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4OTgyOTQw",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T19:09:51Z",
+        "merged_at": "2017-12-19T10:34:32Z",
+        "body_text": 30,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU4OTkzNjI5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T20:31:26Z",
+        "merged_at": "2017-12-19T11:00:04Z",
+        "body_text": 734,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MDEwMDI1",
+        "reviews": 1,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T22:54:50Z",
+        "merged_at": "2017-12-19T11:25:50Z",
+        "body_text": 1380,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MDM4MzE3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-18T23:58:23Z",
+        "merged_at": "2017-12-19T10:18:30Z",
+        "body_text": 34,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MDQ3Nzg3",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T06:11:35Z",
+        "merged_at": "2017-12-19T14:40:15Z",
+        "body_text": 1101,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MDg2MjA2",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T06:55:11Z",
+        "merged_at": "2017-12-19T10:02:38Z",
+        "body_text": 10,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MDkxMjMx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T06:58:55Z",
+        "merged_at": "2017-12-19T10:20:11Z",
+        "body_text": 196,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MDkxNzA4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T13:27:01Z",
+        "merged_at": "2017-12-19T14:42:12Z",
+        "body_text": 1427,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MTY2MTEy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T16:06:43Z",
+        "merged_at": "2017-12-20T09:33:42Z",
+        "body_text": 622,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MjA2MjA3",
+        "reviews": 4,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T18:08:16Z",
+        "merged_at": "2017-12-20T09:09:02Z",
+        "body_text": 500,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MjM1MzI4",
+        "reviews": 3,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T18:55:00Z",
+        "merged_at": "2017-12-20T09:19:22Z",
+        "body_text": 500,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MjQ0NzM4",
+        "reviews": 9,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T20:04:51Z",
+        "merged_at": "2017-12-20T09:11:17Z",
+        "body_text": 500,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MjU5MzUy",
+        "reviews": 6,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T20:41:59Z",
+        "merged_at": "2017-12-20T09:12:27Z",
+        "body_text": 659,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MjY2Nzcy",
+        "reviews": 5,
+        "participants": 5,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-19T21:51:10Z",
+        "merged_at": "2017-12-20T09:13:27Z",
+        "body_text": 546,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MjgwNjE4",
+        "reviews": 4,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T01:23:46Z",
+        "merged_at": "2017-12-20T09:29:44Z",
+        "body_text": 692,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MzEwODI3",
+        "reviews": 7,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T07:17:57Z",
+        "merged_at": "2017-12-20T09:14:12Z",
+        "body_text": 708,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MzQ2NTI5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T07:41:32Z",
+        "merged_at": "2017-12-20T09:14:41Z",
+        "body_text": 508,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5MzQ5OTU0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T13:02:50Z",
+        "merged_at": "2017-12-20T14:16:08Z",
+        "body_text": 759,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NDExMjMz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T13:04:50Z",
+        "merged_at": "2017-12-20T14:10:13Z",
+        "body_text": 730,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NDExNjMw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T16:35:32Z",
+        "merged_at": "2017-12-21T09:06:16Z",
+        "body_text": 722,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NDYyNjE2",
+        "reviews": 3,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T17:20:26Z",
+        "merged_at": "2017-12-21T09:08:53Z",
+        "body_text": 722,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NDczMjEw",
+        "reviews": 3,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T19:03:06Z",
+        "merged_at": "2017-12-21T08:41:49Z",
+        "body_text": 1069,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NDk0MTM1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-20T23:01:25Z",
+        "merged_at": "2017-12-21T09:14:01Z",
+        "body_text": 808,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NTM4Mzc5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T03:54:49Z",
+        "merged_at": "2017-12-21T09:17:06Z",
+        "body_text": 1544,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NTcwODcx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T06:06:14Z",
+        "merged_at": "2017-12-21T09:15:41Z",
+        "body_text": 807,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NTgxOTM1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T06:35:05Z",
+        "merged_at": "2017-12-21T12:26:36Z",
+        "body_text": 722,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NTg0OTE4",
+        "reviews": 3,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T10:35:03Z",
+        "merged_at": "2017-12-21T12:47:41Z",
+        "body_text": 752,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NjI0NTk0",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T17:32:21Z",
+        "merged_at": "2017-12-21T22:31:52Z",
+        "body_text": 70,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NzExNzE3",
+        "reviews": 2,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T18:26:38Z",
+        "merged_at": "2017-12-21T21:04:56Z",
+        "body_text": 77,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NzIxNTY3",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-21T23:28:49Z",
+        "merged_at": "2017-12-22T11:43:43Z",
+        "body_text": 772,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NzcyMDMx",
+        "reviews": 4,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T00:43:48Z",
+        "merged_at": "2017-12-22T14:09:31Z",
+        "body_text": 141,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5Nzc5OTIw",
+        "reviews": 2,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T01:59:11Z",
+        "merged_at": "2017-12-22T15:55:41Z",
+        "body_text": 842,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5Nzg2NzUy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T02:56:45Z",
+        "merged_at": "2017-12-22T13:56:23Z",
+        "body_text": 796,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NzkxNjU1",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T03:10:27Z",
+        "merged_at": "2017-12-22T18:19:30Z",
+        "body_text": 871,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NzkyNzgx",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T03:23:19Z",
+        "merged_at": "2017-12-22T19:54:31Z",
+        "body_text": 765,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5NzkzNzk5",
+        "reviews": 1,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T05:48:25Z",
+        "merged_at": "2017-12-22T08:26:29Z",
+        "body_text": 863,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODA0MTYx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T08:33:16Z",
+        "merged_at": "2017-12-22T10:38:07Z",
+        "body_text": 718,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODIyNDkw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T08:54:44Z",
+        "merged_at": "2017-12-22T13:39:49Z",
+        "body_text": 979,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODI1MzQx",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T09:27:53Z",
+        "merged_at": "2017-12-22T14:31:00Z",
+        "body_text": 954,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODMwMjY4",
+        "reviews": 4,
+        "participants": 4,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T10:38:28Z",
+        "merged_at": "2018-01-01T15:06:10Z",
+        "body_text": 1228,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODQyMjc2",
+        "reviews": 8,
+        "participants": 7,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T11:31:49Z",
+        "merged_at": "2017-12-23T10:19:41Z",
+        "body_text": 754,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODUwNjk4",
+        "reviews": 5,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T15:24:02Z",
+        "merged_at": "2017-12-22T17:32:25Z",
+        "body_text": 780,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5ODg2NjAy",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-22T21:25:33Z",
+        "merged_at": "2017-12-22T22:30:11Z",
+        "body_text": 65,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTM1NTAy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 30
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-23T00:02:11Z",
+        "merged_at": "2017-12-23T15:22:27Z",
+        "body_text": 786,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTQ3OTA2",
+        "reviews": 6,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-23T02:53:22Z",
+        "merged_at": "2017-12-23T10:02:39Z",
+        "body_text": 774,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTU0MTYx",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-23T08:39:40Z",
+        "merged_at": "2017-12-23T10:05:26Z",
+        "body_text": 737,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTYyMDA4",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-23T11:08:22Z",
+        "merged_at": "2017-12-24T12:15:47Z",
+        "body_text": 784,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTY1Mzk4",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-23T13:38:16Z",
+        "merged_at": "2017-12-23T19:11:34Z",
+        "body_text": 963,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTY4ODg1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-23T16:05:38Z",
+        "merged_at": "2017-12-23T21:43:36Z",
+        "body_text": 805,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTcyNDc0",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T06:50:01Z",
+        "merged_at": "2017-12-24T11:49:53Z",
+        "body_text": 935,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTkwMzc4",
+        "reviews": 2,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T07:42:44Z",
+        "merged_at": "2017-12-24T11:57:55Z",
+        "body_text": 787,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTkxNDQz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T09:52:48Z",
+        "merged_at": "2017-12-24T11:51:30Z",
+        "body_text": 988,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU5OTk0NDEy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T14:53:59Z",
+        "merged_at": "2017-12-24T23:11:26Z",
+        "body_text": 771,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDAyMDk4",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T15:02:08Z",
+        "merged_at": "2017-12-24T23:11:14Z",
+        "body_text": 718,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDAyMzIz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T18:01:14Z",
+        "merged_at": "2017-12-24T21:18:12Z",
+        "body_text": 818,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDA2ODky",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T19:45:12Z",
+        "merged_at": "2017-12-24T22:36:31Z",
+        "body_text": 797,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDA5MDc1",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T19:59:18Z",
+        "merged_at": "2017-12-24T22:37:52Z",
+        "body_text": 865,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDA5MzUy",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-24T22:32:38Z",
+        "merged_at": "2017-12-27T08:29:13Z",
+        "body_text": 57,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDEyMjI2",
+        "reviews": 3,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-25T03:58:36Z",
+        "merged_at": "2017-12-25T06:51:14Z",
+        "body_text": 905,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDIxNjc3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-25T05:44:08Z",
+        "merged_at": "2017-12-26T13:18:59Z",
+        "body_text": 964,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDI1NjY3",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-25T23:30:28Z",
+        "merged_at": "2017-12-26T06:30:01Z",
+        "body_text": 906,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDcxMDA5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-26T02:46:57Z",
+        "merged_at": "2017-12-26T13:24:48Z",
+        "body_text": 955,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMDc3MTI2",
+        "reviews": 2,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-26T10:34:13Z",
+        "merged_at": "2017-12-26T13:15:14Z",
+        "body_text": 750,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMTEzNDAx",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-26T11:22:14Z",
+        "merged_at": "2017-12-26T13:16:50Z",
+        "body_text": 848,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMTE3OTk2",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-27T01:08:50Z",
+        "merged_at": "2017-12-27T08:20:44Z",
+        "body_text": 251,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMTgwNTQ4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-27T03:17:33Z",
+        "merged_at": "2017-12-27T08:31:50Z",
+        "body_text": 874,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMTg4MjE2",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-27T05:52:33Z",
+        "merged_at": "2017-12-27T08:33:50Z",
+        "body_text": 914,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMTk3MzYw",
+        "reviews": 1,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-27T19:16:24Z",
+        "merged_at": "2017-12-28T08:24:01Z",
+        "body_text": 844,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMjkxNTIw",
+        "reviews": 1,
+        "participants": 4,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-28T07:19:13Z",
+        "merged_at": "2017-12-28T09:52:41Z",
+        "body_text": 938,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwMzQ1MDA0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-29T08:23:33Z",
+        "merged_at": "2017-12-29T09:48:31Z",
+        "body_text": 927,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNDg2NzYy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-29T11:00:08Z",
+        "merged_at": "2017-12-29T13:04:46Z",
+        "body_text": 752,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNTAyMjg0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-29T11:29:22Z",
+        "merged_at": "2017-12-29T13:37:01Z",
+        "body_text": 788,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNTA1MTc4",
+        "reviews": 4,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-29T15:44:57Z",
+        "merged_at": "2017-12-30T11:07:46Z",
+        "body_text": 944,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNTMwNzU4",
+        "reviews": 3,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-29T19:59:37Z",
+        "merged_at": "2017-12-30T10:57:08Z",
+        "body_text": 408,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNTU1MzQw",
+        "reviews": 2,
+        "participants": 3,
+        "files": 9
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-30T03:43:29Z",
+        "merged_at": "2017-12-30T10:58:58Z",
+        "body_text": 42,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNTc3Njk5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-30T12:49:15Z",
+        "merged_at": "2017-12-31T17:35:33Z",
+        "body_text": 752,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNTg4NTE1",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-30T23:59:45Z",
+        "merged_at": "2017-12-31T10:43:45Z",
+        "body_text": 903,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjA1MTA0",
+        "reviews": 3,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-31T07:33:36Z",
+        "merged_at": "2017-12-31T09:29:13Z",
+        "body_text": 904,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjEyMzU3",
+        "reviews": 4,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2017-12-31T10:50:26Z",
+        "merged_at": "2017-12-31T17:30:08Z",
+        "body_text": 747,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjE2NDk5",
+        "reviews": 4,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-01T10:28:42Z",
+        "merged_at": "2018-01-01T12:37:23Z",
+        "body_text": 723,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjQzOTc4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-01T11:03:49Z",
+        "merged_at": "2018-01-01T12:41:57Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjQ0Njkx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-01T15:22:29Z",
+        "merged_at": "2018-01-01T17:04:02Z",
+        "body_text": 691,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjUxMjk5",
+        "reviews": 5,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-01T16:22:00Z",
+        "merged_at": "2018-01-01T18:11:08Z",
+        "body_text": 704,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjUyOTc5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-01T21:45:46Z",
+        "merged_at": "2018-01-02T08:41:27Z",
+        "body_text": 903,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjYxNDI4",
+        "reviews": 6,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-01T22:42:59Z",
+        "merged_at": "2018-01-02T08:49:18Z",
+        "body_text": 900,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjYyOTkw",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-02T00:38:48Z",
+        "merged_at": "2018-01-02T08:37:58Z",
+        "body_text": 800,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjY2MDE0",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-02T02:07:08Z",
+        "merged_at": "2018-01-03T11:53:21Z",
+        "body_text": 861,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjY4NzY3",
+        "reviews": 4,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-02T09:18:14Z",
+        "merged_at": "2018-01-03T14:22:00Z",
+        "body_text": 1544,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwNjk0MTAw",
+        "reviews": 3,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T00:52:14Z",
+        "merged_at": "2018-01-03T06:04:48Z",
+        "body_text": 735,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODMyMTQ5",
+        "reviews": 6,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T02:09:25Z",
+        "merged_at": "2018-01-03T11:47:59Z",
+        "body_text": 716,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODM3OTIz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T03:22:57Z",
+        "merged_at": "2018-01-03T06:15:48Z",
+        "body_text": 733,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODQyNjMx",
+        "reviews": 4,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T03:26:28Z",
+        "merged_at": "2018-01-03T06:01:06Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODQyODQ4",
+        "reviews": 4,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T03:34:37Z",
+        "merged_at": "2018-01-03T06:10:34Z",
+        "body_text": 901,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODQzMzUw",
+        "reviews": 3,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T07:02:03Z",
+        "merged_at": "2018-01-03T11:46:46Z",
+        "body_text": 772,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODU2NDM2",
+        "reviews": 4,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T07:37:41Z",
+        "merged_at": "2018-01-03T11:51:41Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODU5OTQ5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T10:11:46Z",
+        "merged_at": "2018-01-03T13:05:51Z",
+        "body_text": 691,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODc5NzY5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T11:17:56Z",
+        "merged_at": "2018-01-03T12:29:31Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwODkwNTk4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T15:58:58Z",
+        "merged_at": "2018-01-04T09:07:36Z",
+        "body_text": 1013,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwOTQxMzg5",
+        "reviews": 2,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T17:09:30Z",
+        "merged_at": "2018-01-03T18:15:30Z",
+        "body_text": 925,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYwOTU3MDE0",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-03T21:12:13Z",
+        "merged_at": "2018-01-03T23:11:10Z",
+        "body_text": 927,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMDAxMjgy",
+        "reviews": 3,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-04T04:00:01Z",
+        "merged_at": "2018-01-04T12:32:33Z",
+        "body_text": 768,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMDQ4NjM5",
+        "reviews": 2,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-04T04:28:11Z",
+        "merged_at": "2018-01-04T09:29:03Z",
+        "body_text": 1064,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMDUwNzQx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-04T07:27:55Z",
+        "merged_at": "2018-01-04T09:51:46Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMDY2MDM0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-04T23:03:00Z",
+        "merged_at": "2018-01-05T10:21:39Z",
+        "body_text": 758,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMjM3MjI4",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-05T08:59:34Z",
+        "merged_at": "2018-01-05T10:24:10Z",
+        "body_text": 1051,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMjk2MzAw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-05T11:41:39Z",
+        "merged_at": "2018-01-05T15:47:56Z",
+        "body_text": 971,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMzIzNzIx",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-05T12:35:44Z",
+        "merged_at": "2018-01-05T16:11:12Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMzMyMjEz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-05T13:08:38Z",
+        "merged_at": "2018-01-09T12:18:30Z",
+        "body_text": 732,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMzM3Mjg1",
+        "reviews": 6,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-05T15:33:51Z",
+        "merged_at": "2018-01-08T23:20:56Z",
+        "body_text": 468,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMzY0NzUw",
+        "reviews": 6,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-05T16:22:44Z",
+        "merged_at": "2018-01-06T10:28:44Z",
+        "body_text": 738,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxMzc1NDEz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-06T08:29:02Z",
+        "merged_at": "2018-01-06T11:48:13Z",
+        "body_text": 703,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxNDcxNzk5",
+        "reviews": 12,
+        "participants": 5,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-07T22:15:00Z",
+        "merged_at": "2018-01-08T19:58:59Z",
+        "body_text": 925,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxNTQxNjkz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-08T14:59:29Z",
+        "merged_at": "2018-01-08T17:55:27Z",
+        "body_text": 759,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxNjQ3NjMx",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-08T20:44:36Z",
+        "merged_at": "2018-01-10T19:33:03Z",
+        "body_text": 1187,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxNzIxMTUy",
+        "reviews": 4,
+        "participants": 7,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-09T07:30:15Z",
+        "merged_at": "2018-01-09T14:20:37Z",
+        "body_text": 920,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxODAyMDU4",
+        "reviews": 11,
+        "participants": 3,
+        "files": 388
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-09T09:18:10Z",
+        "merged_at": "2018-01-09T12:22:56Z",
+        "body_text": 755,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYxODE5Mzky",
+        "reviews": 1,
+        "participants": 5,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-10T02:47:04Z",
+        "merged_at": "2018-01-10T05:16:08Z",
+        "body_text": 862,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyMDI0ODY3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-10T20:29:57Z",
+        "merged_at": "2018-01-10T21:38:11Z",
+        "body_text": 995,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyMjIyNjA4",
+        "reviews": 2,
+        "participants": 3,
+        "files": 210
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-12T01:54:07Z",
+        "merged_at": "2018-02-02T11:03:26Z",
+        "body_text": 1013,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyNTMxNTA4",
+        "reviews": 19,
+        "participants": 6,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-13T11:38:27Z",
+        "merged_at": "2018-01-13T15:25:32Z",
+        "body_text": 817,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyNzc2ODI5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-13T12:20:41Z",
+        "merged_at": "2018-01-13T22:58:16Z",
+        "body_text": 778,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyNzc4MTE4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-13T17:17:13Z",
+        "merged_at": "2018-01-15T12:01:47Z",
+        "body_text": 711,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyNzg4MzI4",
+        "reviews": 5,
+        "participants": 5,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-15T16:01:48Z",
+        "merged_at": "2018-01-15T17:13:27Z",
+        "body_text": 859,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYyOTg3ODcw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 34
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-16T13:54:33Z",
+        "merged_at": "2018-01-16T16:49:17Z",
+        "body_text": 847,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzMTg0MTQ4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-17T12:10:29Z",
+        "merged_at": "2018-01-17T19:25:30Z",
+        "body_text": 896,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzNDI0ODEz",
+        "reviews": 17,
+        "participants": 3,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-17T15:46:12Z",
+        "merged_at": "2018-01-17T18:23:34Z",
+        "body_text": 869,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzNDc2NzEz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 6
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-17T18:43:54Z",
+        "merged_at": "2018-01-17T19:51:33Z",
+        "body_text": 937,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzNTIxMjc4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 245
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-17T19:45:04Z",
+        "merged_at": "2018-01-17T21:05:31Z",
+        "body_text": 799,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzNTM0OTEy",
+        "reviews": 3,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-18T08:14:01Z",
+        "merged_at": "2018-01-18T14:10:47Z",
+        "body_text": 1640,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzNjQ1NjA3",
+        "reviews": 2,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-18T14:47:30Z",
+        "merged_at": "2018-01-19T01:05:59Z",
+        "body_text": 1001,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTYzNzMwNzkx",
+        "reviews": 2,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-20T15:24:10Z",
+        "merged_at": "2018-01-23T14:00:31Z",
+        "body_text": 920,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY0MTMxODIz",
+        "reviews": 6,
+        "participants": 5,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-22T21:46:38Z",
+        "merged_at": "2018-01-23T11:30:32Z",
+        "body_text": 1378,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY0NDI1MjA4",
+        "reviews": 10,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-23T15:13:44Z",
+        "merged_at": "2018-01-25T11:41:13Z",
+        "body_text": 934,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY0NjAyNTYz",
+        "reviews": 12,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-25T13:54:20Z",
+        "merged_at": "2018-01-26T09:24:13Z",
+        "body_text": 1013,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1MTI0MTYz",
+        "reviews": 1,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-26T00:55:23Z",
+        "merged_at": "2018-01-26T02:32:19Z",
+        "body_text": 56,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1MjY3MTk5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-27T15:21:07Z",
+        "merged_at": "2018-01-31T17:14:15Z",
+        "body_text": 1681,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1NTIyMDE5",
+        "reviews": 6,
+        "participants": 3,
+        "files": 7
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-27T15:25:31Z",
+        "merged_at": "2018-01-28T12:11:23Z",
+        "body_text": 854,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1NTIyMTcw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 7
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-27T16:35:55Z",
+        "merged_at": "2018-01-28T12:30:02Z",
+        "body_text": 1181,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1NTI1MDMy",
+        "reviews": 1,
+        "participants": 2,
+        "files": 8
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-27T17:59:41Z",
+        "merged_at": "2018-01-27T19:14:16Z",
+        "body_text": 1031,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1NTI4NzUx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-29T19:47:41Z",
+        "merged_at": "2018-01-30T02:58:19Z",
+        "body_text": 897,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY1Nzk5OTE5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-30T20:49:15Z",
+        "merged_at": "2018-02-03T09:33:30Z",
+        "body_text": 890,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY2MDkzNTU2",
+        "reviews": 5,
+        "participants": 3,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-01-31T08:17:26Z",
+        "merged_at": "2018-01-31T17:06:10Z",
+        "body_text": 934,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY2MTkxODcx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-06T16:40:14Z",
+        "merged_at": "2018-02-18T17:45:57Z",
+        "body_text": 858,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY3NDY2Mzcw",
+        "reviews": 7,
+        "participants": 5,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-08T04:10:14Z",
+        "merged_at": "2018-02-09T07:05:14Z",
+        "body_text": 865,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY3ODczMjQz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-08T16:46:34Z",
+        "merged_at": "2018-02-09T09:42:27Z",
+        "body_text": 369,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY4MDI2MzE4",
+        "reviews": 2,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-10T16:46:28Z",
+        "merged_at": "2018-02-26T10:17:10Z",
+        "body_text": 726,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY4NDA5NjUz",
+        "reviews": 2,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-17T16:47:16Z",
+        "merged_at": "2018-02-26T15:30:08Z",
+        "body_text": 1039,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY5NzkwOTA1",
+        "reviews": 18,
+        "participants": 5,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-24T10:03:22Z",
+        "merged_at": "2018-02-26T11:53:10Z",
+        "body_text": 754,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTcxMTcxOTEy",
+        "reviews": 2,
+        "participants": 3,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-24T11:49:34Z",
+        "merged_at": "2018-02-25T21:09:55Z",
+        "body_text": 759,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTcxMTc1Mzgz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-25T03:27:07Z",
+        "merged_at": "2018-03-06T07:10:24Z",
+        "body_text": 848,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTcxMjEwNTY5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-02-25T15:57:22Z",
+        "merged_at": "2018-02-26T12:49:24Z",
+        "body_text": 710,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTcxMjM2Njkx",
+        "reviews": 1,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-03-02T16:28:45Z",
+        "merged_at": "2018-03-03T12:43:00Z",
+        "body_text": 896,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTcyNTQ1ODYw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-03-08T13:23:12Z",
+        "merged_at": "2018-03-12T20:29:40Z",
+        "body_text": 779,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTczNzM0MzQx",
+        "reviews": 2,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-03-19T00:26:30Z",
+        "merged_at": "2018-03-19T17:30:09Z",
+        "body_text": 737,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTc1NzgzMTQ3",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-03-19T02:53:30Z",
+        "merged_at": "2018-03-19T14:49:53Z",
+        "body_text": 698,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTc1NzkzODc4",
+        "reviews": 3,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-10T14:30:40Z",
+        "merged_at": "2018-04-10T15:40:55Z",
+        "body_text": 993,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgwNjIyMzQ5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-10T18:43:18Z",
+        "merged_at": "2018-04-12T18:43:15Z",
+        "body_text": 698,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgwNjkzMTc0",
+        "reviews": 2,
+        "participants": 4,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-11T13:40:28Z",
+        "merged_at": "2018-04-12T18:42:53Z",
+        "body_text": 794,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgwOTA3MzU0",
+        "reviews": 2,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-11T14:30:32Z",
+        "merged_at": "2018-04-12T05:34:47Z",
+        "body_text": 738,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgwOTIzNjE5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-12T17:55:28Z",
+        "merged_at": "2018-04-13T16:57:15Z",
+        "body_text": 855,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgxMjgwMzIx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-14T07:54:44Z",
+        "merged_at": "2018-04-16T14:52:13Z",
+        "body_text": 757,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgxNjM2MTQ2",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-19T00:51:45Z",
+        "merged_at": "2018-04-19T17:05:30Z",
+        "body_text": 1043,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgyNjM5NzQ0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-25T14:46:35Z",
+        "merged_at": "2018-04-25T17:12:46Z",
+        "body_text": 134,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg0MDYxNTg1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-04-27T00:32:48Z",
+        "merged_at": "2018-04-27T12:49:18Z",
+        "body_text": 964,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg0NDk3NDEw",
+        "reviews": 2,
+        "participants": 2,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-07T01:36:50Z",
+        "merged_at": "2018-05-07T08:32:56Z",
+        "body_text": 421,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg2MjM4Njcy",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-09T19:03:53Z",
+        "merged_at": "2018-05-11T09:45:25Z",
+        "body_text": 810,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg3MDExNTY5",
+        "reviews": 4,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-11T12:10:44Z",
+        "merged_at": "2018-05-11T15:08:25Z",
+        "body_text": 826,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg3NDQ2NTg5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-14T06:08:41Z",
+        "merged_at": "2018-05-15T18:52:27Z",
+        "body_text": 796,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg3NzI4MDU3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-14T12:54:29Z",
+        "merged_at": "2018-05-15T18:47:13Z",
+        "body_text": 873,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg3ODE3NTgx",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-17T13:19:34Z",
+        "merged_at": "2018-05-17T14:27:21Z",
+        "body_text": 869,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTg4NzM0NDE5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-30T16:07:18Z",
+        "merged_at": "2018-06-23T07:21:27Z",
+        "body_text": 840,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTkxNTA1NTE4",
+        "reviews": 5,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-05-30T23:13:48Z",
+        "merged_at": "2018-05-31T18:11:44Z",
+        "body_text": 1075,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTkxNjA1MzA3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-06-05T12:26:16Z",
+        "merged_at": "2018-06-05T15:09:33Z",
+        "body_text": 746,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTkyNjg5MDc4",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-06-23T02:31:32Z",
+        "merged_at": "2018-06-23T05:54:20Z",
+        "body_text": 950,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTk2ODc2MDE2",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-06-23T10:54:47Z",
+        "merged_at": "2018-06-23T13:38:35Z",
+        "body_text": 915,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTk2ODk1NzYw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-07-13T06:07:15Z",
+        "merged_at": "2018-07-14T07:34:07Z",
+        "body_text": 156,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjAxMTk1Njgw",
+        "reviews": 1,
+        "participants": 3,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-07-17T00:43:45Z",
+        "merged_at": "2018-07-17T18:04:44Z",
+        "body_text": 903,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjAxNzk2Mjk5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-07-17T08:57:52Z",
+        "merged_at": "2018-07-17T18:05:01Z",
+        "body_text": 749,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjAxODY5MzAw",
+        "reviews": 1,
+        "participants": 2,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-07-18T09:31:21Z",
+        "merged_at": "2018-07-18T16:57:38Z",
+        "body_text": 752,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjAyMTkxNDg5",
+        "reviews": 3,
+        "participants": 3,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-07-24T10:32:31Z",
+        "merged_at": "2018-07-25T19:09:42Z",
+        "body_text": 824,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjAzNDgxMzM2",
+        "reviews": 4,
+        "participants": 3,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-07-28T21:41:21Z",
+        "merged_at": "2018-08-02T07:49:29Z",
+        "body_text": 854,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA0NjEyMDE0",
+        "reviews": 2,
+        "participants": 3,
+        "files": 8
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-02T11:38:49Z",
+        "merged_at": "2018-08-02T19:48:51Z",
+        "body_text": 795,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA1NzA1MjA4",
+        "reviews": 4,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-08T10:25:35Z",
+        "merged_at": "2018-08-09T06:49:14Z",
+        "body_text": 840,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA2OTYwOTA5",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-09T07:51:53Z",
+        "merged_at": "2018-08-10T06:31:57Z",
+        "body_text": 839,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA3MjI5NDA1",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-10T07:48:05Z",
+        "merged_at": "2018-08-17T05:41:33Z",
+        "body_text": 787,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA3NTMyNDEx",
+        "reviews": 3,
+        "participants": 3,
+        "files": 6
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-12T16:40:06Z",
+        "merged_at": "2018-08-13T11:25:51Z",
+        "body_text": 1286,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA3ODI5NTc3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-13T01:08:54Z",
+        "merged_at": "2018-08-13T05:38:28Z",
+        "body_text": 926,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA3ODUwODM2",
+        "reviews": 1,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-13T01:11:13Z",
+        "merged_at": "2018-08-16T20:30:24Z",
+        "body_text": 958,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA3ODUwOTk2",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-13T01:51:48Z",
+        "merged_at": "2018-08-13T11:22:33Z",
+        "body_text": 863,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA3ODUzODQ0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-13T18:39:34Z",
+        "merged_at": "2018-08-14T17:38:53Z",
+        "body_text": 981,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA4MDY2NDQx",
+        "reviews": 2,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-14T17:56:46Z",
+        "merged_at": "2018-08-15T06:33:16Z",
+        "body_text": 803,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA4MzYyMjE1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-17T08:13:54Z",
+        "merged_at": "2018-08-23T07:30:12Z",
+        "body_text": 863,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA5MDc1NzY2",
+        "reviews": 18,
+        "participants": 4,
+        "files": 13
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-20T12:35:22Z",
+        "merged_at": "2018-09-22T11:37:26Z",
+        "body_text": 732,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjA5NTA2NTkx",
+        "reviews": 5,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-22T09:36:34Z",
+        "merged_at": "2018-08-27T13:52:07Z",
+        "body_text": 832,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEwMDczODgy",
+        "reviews": 1,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-25T16:04:26Z",
+        "merged_at": "2018-09-01T10:09:00Z",
+        "body_text": 763,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEwOTA5MTY4",
+        "reviews": 22,
+        "participants": 5,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-28T13:41:16Z",
+        "merged_at": "2018-08-28T17:13:30Z",
+        "body_text": 780,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjExNDI3MDU2",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-29T09:52:12Z",
+        "merged_at": "2018-08-29T21:09:42Z",
+        "body_text": 814,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjExNjkzNjEw",
+        "reviews": 3,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-08-30T16:09:19Z",
+        "merged_at": "2018-09-02T17:19:44Z",
+        "body_text": 902,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEyMTMzNDgw",
+        "reviews": 6,
+        "participants": 4,
+        "files": 19
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-01T12:43:29Z",
+        "merged_at": "2018-09-02T19:22:12Z",
+        "body_text": 873,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEyNTQ1MTQy",
+        "reviews": 4,
+        "participants": 3,
+        "files": 32
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-01T12:49:02Z",
+        "merged_at": "2018-09-02T18:58:03Z",
+        "body_text": 837,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEyNTQ1MzQ0",
+        "reviews": 3,
+        "participants": 3,
+        "files": 12
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-04T13:01:33Z",
+        "merged_at": "2018-09-04T20:52:56Z",
+        "body_text": 784,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEyOTY4MDg2",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-05T14:35:19Z",
+        "merged_at": "2018-09-07T05:37:40Z",
+        "body_text": 853,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEzMzE3NTg2",
+        "reviews": 2,
+        "participants": 5,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-07T13:48:43Z",
+        "merged_at": "2018-09-10T05:31:32Z",
+        "body_text": 796,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjEzOTMzODI5",
+        "reviews": 6,
+        "participants": 4,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-14T08:30:19Z",
+        "merged_at": "2018-09-15T09:31:57Z",
+        "body_text": 823,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE1NTE4NzMy",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-14T13:25:08Z",
+        "merged_at": "2018-09-14T16:33:51Z",
+        "body_text": 1366,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE1NTkzNTEy",
+        "reviews": 12,
+        "participants": 2,
+        "files": 8
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-17T07:55:12Z",
+        "merged_at": "2018-09-18T05:25:54Z",
+        "body_text": 782,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE1ODk3NjI0",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-20T14:12:42Z",
+        "merged_at": "2018-10-01T16:33:55Z",
+        "body_text": 795,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE2OTg3NjU0",
+        "reviews": 2,
+        "participants": 3,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-24T19:16:29Z",
+        "merged_at": "2018-09-27T13:58:32Z",
+        "body_text": 343,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE3NzU5NTc1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-24T19:32:36Z",
+        "merged_at": "2018-09-25T03:57:05Z",
+        "body_text": 62,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE3NzYzNjMx",
+        "reviews": 2,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-24T19:42:06Z",
+        "merged_at": "2018-09-25T19:36:38Z",
+        "body_text": 137,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE3NzY2MDM0",
+        "reviews": 1,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-25T00:31:00Z",
+        "merged_at": "2018-09-26T09:27:34Z",
+        "body_text": 923,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE3ODI1MDQ2",
+        "reviews": 4,
+        "participants": 5,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-27T12:56:00Z",
+        "merged_at": "2018-09-27T15:12:11Z",
+        "body_text": 702,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE4NjQxOTEz",
+        "reviews": 2,
+        "participants": 3,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-09-29T11:33:54Z",
+        "merged_at": "2018-09-29T13:46:33Z",
+        "body_text": 665,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE5MTQzMTA0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 34
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-01T00:31:11Z",
+        "merged_at": "2018-10-08T17:08:42Z",
+        "body_text": 934,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE5MjM3NTY2",
+        "reviews": 2,
+        "participants": 4,
+        "files": 9
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-01T12:29:09Z",
+        "merged_at": "2018-10-16T17:31:46Z",
+        "body_text": 667,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE5MzU3ODM2",
+        "reviews": 1,
+        "participants": 5,
+        "files": 6
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-01T17:14:42Z",
+        "merged_at": "2018-10-03T19:17:30Z",
+        "body_text": 709,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE5NDUwNjc4",
+        "reviews": 3,
+        "participants": 2,
+        "files": 17
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-02T07:05:46Z",
+        "merged_at": "2018-10-02T17:58:18Z",
+        "body_text": 779,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjE5NjA0MTUz",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-03T21:16:34Z",
+        "merged_at": "2018-10-04T03:36:40Z",
+        "body_text": 601,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjIwMTgyODk2",
+        "reviews": 1,
+        "participants": 3,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-04T12:20:36Z",
+        "merged_at": "2018-10-04T13:44:56Z",
+        "body_text": 619,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjIwMzU1NDk1",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-05T08:19:41Z",
+        "merged_at": "2018-10-07T13:24:36Z",
+        "body_text": 657,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjIwNjIwNzM2",
+        "reviews": 14,
+        "participants": 5,
+        "files": 4
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-05T14:31:39Z",
+        "merged_at": "2018-10-06T09:33:40Z",
+        "body_text": 1222,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjIwNzIyMDQ5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 5
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-06T16:42:36Z",
+        "merged_at": "2018-10-07T18:53:52Z",
+        "body_text": 1000,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjIwODk3MjQx",
+        "reviews": 2,
+        "participants": 4,
+        "files": 1
+    },
+    {
+        "total_count": 739,
+        "created_at": "2018-10-08T13:48:54Z",
+        "merged_at": "2018-10-09T11:14:34Z",
+        "body_text": 633,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjIxMTI0MjE4",
+        "reviews": 6,
+        "participants": 6,
+        "files": 1
+    }
+]

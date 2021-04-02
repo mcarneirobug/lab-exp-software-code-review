@@ -1,0 +1,92 @@
+[
+    {
+        "total_count": 313,
+        "created_at": "2017-12-12T01:54:38Z",
+        "merged_at": "2017-12-13T09:43:03Z",
+        "body_text": 64,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTU3NzE4MTQz",
+        "reviews": 1,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 313,
+        "created_at": "2018-04-25T06:29:46Z",
+        "merged_at": "2018-05-02T02:27:48Z",
+        "body_text": 62,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTgzOTM1NDk5",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 313,
+        "created_at": "2018-06-01T06:30:53Z",
+        "merged_at": "2018-06-01T07:38:09Z",
+        "body_text": 168,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTkxOTQ1MDc3",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 313,
+        "created_at": "2018-11-02T04:20:06Z",
+        "merged_at": "2018-11-02T07:07:40Z",
+        "body_text": 20,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjI3ODI3NTUw",
+        "reviews": 2,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 313,
+        "created_at": "2019-01-23T05:33:05Z",
+        "merged_at": "2019-01-24T07:32:36Z",
+        "body_text": 53,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjQ2ODQzNzA4",
+        "reviews": 3,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 313,
+        "created_at": "2019-03-15T10:04:27Z",
+        "merged_at": "2019-03-17T08:36:10Z",
+        "body_text": 54,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjYxNDg5MjY5",
+        "reviews": 2,
+        "participants": 2,
+        "files": 2
+    },
+    {
+        "total_count": 313,
+        "created_at": "2019-04-16T03:33:57Z",
+        "merged_at": "2019-04-16T06:56:08Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjcwNzQyMjEx",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 313,
+        "created_at": "2019-05-09T16:33:28Z",
+        "merged_at": "2019-05-20T03:10:31Z",
+        "body_text": 292,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0Mjc3NDYzOTEx",
+        "reviews": 2,
+        "participants": 2,
+        "files": 1
+    },
+    {
+        "total_count": 313,
+        "created_at": "2019-10-09T15:07:41Z",
+        "merged_at": "2020-05-04T13:38:44Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MzI2MzA0Njkz",
+        "reviews": 2,
+        "participants": 2,
+        "files": 5
+    }
+]

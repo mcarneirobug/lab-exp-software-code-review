@@ -1,0 +1,32 @@
+[
+    {
+        "total_count": 41,
+        "created_at": "2017-06-20T15:10:08Z",
+        "merged_at": "2017-07-03T10:03:09Z",
+        "body_text": 24,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTI2NTU3OTUx",
+        "reviews": 4,
+        "participants": 2,
+        "files": 15
+    },
+    {
+        "total_count": 41,
+        "created_at": "2017-11-06T20:02:46Z",
+        "merged_at": "2017-11-10T13:46:03Z",
+        "body_text": 306,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTUwOTQ1Nzk4",
+        "reviews": 1,
+        "participants": 3,
+        "files": 3
+    },
+    {
+        "total_count": 41,
+        "created_at": "2018-06-12T05:57:30Z",
+        "merged_at": "2018-06-12T07:18:16Z",
+        "body_text": 84,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTk0MTczMjI1",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    }
+]

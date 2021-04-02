@@ -1,0 +1,42 @@
+[
+    {
+        "total_count": 42,
+        "created_at": "2017-03-15T16:05:58Z",
+        "merged_at": "2017-03-15T23:29:00Z",
+        "body_text": 159,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTEwODgwNTY0",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 42,
+        "created_at": "2017-04-07T19:59:33Z",
+        "merged_at": "2017-04-13T02:48:20Z",
+        "body_text": 30,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTE0ODg5NDk3",
+        "reviews": 19,
+        "participants": 3,
+        "files": 8
+    },
+    {
+        "total_count": 42,
+        "created_at": "2017-09-08T17:37:44Z",
+        "merged_at": "2017-10-25T21:42:28Z",
+        "body_text": 0,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTQwMDg5MzM3",
+        "reviews": 1,
+        "participants": 3,
+        "files": 1
+    },
+    {
+        "total_count": 42,
+        "created_at": "2018-04-02T02:37:50Z",
+        "merged_at": "2018-09-02T04:08:55Z",
+        "body_text": 81,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTc4NzYyNTE0",
+        "reviews": 1,
+        "participants": 2,
+        "files": 1
+    }
+]
