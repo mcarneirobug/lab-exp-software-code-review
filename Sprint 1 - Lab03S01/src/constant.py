@@ -33,4 +33,49 @@ QUERY = """
     }
 }
 """
+QUERY_DATA_SET = """
+{
+  repository(owner: "{OWNER}", name: "{REPOSITORY_NAME}") {
+    merged: pullRequests(first: 2, after: null, states: MERGED) {
+      totalCount
+      nodes {
+        createdAt
+        mergedAt
+        bodyText
+        id
+        reviews {
+          totalCount
+        }
+        participants {
+          totalCount
+        }
+        files {
+          totalCount
+        }
+      }
+    }
+    closed: pullRequests(first: 5, after: null, states: CLOSED) {
+      totalCount
+      nodes {
+        createdAt
+        mergedAt
+        bodyText
+        id
+        reviews {
+          totalCount
+        }
+        participants {
+          totalCount
+        }
+        files {
+          totalCount
+        }
+      }
+    }
+  }
+  rateLimit {
+    remaining
+  }
+}
+"""
 PATH_CSV = 'output_github.csv'
