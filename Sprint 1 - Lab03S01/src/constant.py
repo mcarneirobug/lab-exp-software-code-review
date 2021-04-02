@@ -25,6 +25,9 @@ QUERY = """
                 mc: pullRequests(states: CLOSED){
                     totalCount
                 }
+                owner {
+                    login
+                }
             } 
         } 
     }
