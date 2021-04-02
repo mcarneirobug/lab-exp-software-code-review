@@ -57,28 +57,49 @@ def mine(quantidade_repo, owner, name):
         resultado_query = run_github_query_to_data_set(query_pr_merged)
         # Variável armazena a quantidade de iterações que faremos para armazenar os merged de um repositório
         tamanho_query = len(resultado_query['data']['repository']['merged']['nodes'])
-        # Variável pega o endCursor para próxima página dos merged (after)
-        end_cursor = '"{}"'.format(
-            resultado_query['data']['repository']['merged']['pageInfo']['endCursor'])
-        # Só itera caso não for None e 0 e monta e adiciona o objeto de merged request em uma lista
-        if tamanho_query is not None or 0:
-            for y in range(tamanho_query):
-                # Vai montar em um dicionário os resultados da query dos merged request
-                data = dict(total_count=resultado_query['data']['repository']['merged']['totalCount'],
-                            created_at=resultado_query['data']['repository']['merged']['nodes'][y]['createdAt'],
-                            merged_at=resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt'],
-                            body_text=resultado_query['data']['repository']['merged']['nodes'][y]['bodyText'],
-                            id_pr=resultado_query['data']['repository']['merged']['nodes'][y]['id'],
-                            reviews=resultado_query['data']['repository']['merged']['nodes'][y]['reviews']['totalCount'],
-                            participants=resultado_query['data']['repository']['merged']['nodes'][y]['participants'][
-                                'totalCount'],
-                            files=resultado_query['data']['repository']['merged']['nodes'][y]['files']['totalCount'])
-                # Adiciona na lista os resultados obtidos
-                merged_prs.append(data)
-                print(merged_prs)
-    # Salva em um arquivo JSON os resultados obtidos na lista a cada iteração
-    with open("merged_data.json", "w") as file:
-        json.dump(merged_prs, file, indent=4)
+        # Se o tamanho for zero, nós iremos fazer a próxima iteração
+        if tamanho_query != 0:
+            # Variável pega o endCursor para próxima página dos merged (after)
+            end_cursor = '"{}"'.format(
+                resultado_query['data']['repository']['merged']['pageInfo']['endCursor'])
+            # Só itera caso não for None e 0 e monta e adiciona o objeto de merged request em uma lista
+            if tamanho_query is not None or 0:
+                for y in range(tamanho_query):
+                    # Pegarmos a quantidade de caracteres do comentário do commit do PR
+                    if len(resultado_query['data']['repository']['merged']['nodes'][y]['bodyText']) > 0:
+                        quantidade_caracteres_body_text = len(
+                            resultado_query['data']['repository']['merged']['nodes'][y]['bodyText'])
+                    else:
+                        quantidade_caracteres_body_text = 0
+
+                    # Vai montar em um dicionário os resultados da query dos merged request
+                    data = dict(total_count=resultado_query['data']['repository']['merged']['totalCount'],
+                                created_at=resultado_query['data']['repository']['merged']['nodes'][y]['createdAt'],
+                                merged_at=resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt'],
+                                body_text=quantidade_caracteres_body_text,
+                                id_pr=resultado_query['data']['repository']['merged']['nodes'][y]['id'],
+                                reviews=resultado_query['data']['repository']['merged']['nodes'][y]['reviews'][
+                                    'totalCount'],
+                                participants=
+                                resultado_query['data']['repository']['merged']['nodes'][y]['participants'][
+                                    'totalCount'],
+                                files=resultado_query['data']['repository']['merged']['nodes'][y]['files'][
+                                    'totalCount'])
+                    # Adiciona na lista os resultados obtidos por página
+                    merged_prs.append(data)
+                    print(merged_prs)
+            # Salva em um arquivo JSON os resultados obtidos na lista a cada iteração por página (5 por página)
+            with open(f"merged_data_{owner}_{name}_{quantidade_repo}.json", "w") as file:
+                json.dump(merged_prs, file, indent=4)
+        else:
+            continue
+
+
+"""
+Metódo responsável por abrir o arquivo txt e armazenar os repositórios em uma lista
+e após isso iterar por essa lista e chamando o método para minerar baseado no nome 
+do dono do repositório e o nome do repositório
+"""
 
 
 def run():
@@ -94,9 +115,11 @@ def run():
 
     # Para cada repositório armazenado na lista iremos pegar o owner e o nome do repositório
     for url_repo in repos_list:
+        # iremos transformar nossa string em uma lista separando pelas vírgulas
         dividir_repo_pela_vircula = url_repo.split(',')
-
+        # iremos pegar o owner do repositório
         owner_repositorio = dividir_repo_pela_vircula[2].strip()
+        # iremos pegar o nome do repositório
         nome_repositorio = dividir_repo_pela_vircula[3].strip()
 
         print(mine(len(repos_list), owner_repositorio, nome_repositorio))
@@ -105,4 +128,4 @@ def run():
 if __name__ == "__main__":
     run()
     print('#' * 100)
-print('\nSuccessfully generated txt and json file...')
+print('\nSuccessfully...')
