@@ -29,14 +29,14 @@ def mine(quantidade_repo, owner, name):
         query_pr_merged = """
         {
           repository(owner: "%s", name: "%s") {
-            merged: pullRequests(first: 5, after: %s, states: MERGED) {
+            closed: pullRequests(first: 5, after: %s, states: CLOSED) {
               pageInfo {
                 endCursor
               }
               totalCount
               nodes {
                 createdAt
-                mergedAt
+                closedAt
                 bodyText
                 id
                 reviews {
@@ -56,55 +56,115 @@ def mine(quantidade_repo, owner, name):
 
         # Variável armazena o resultado que contém a próxima página com os nodes
         resultado_query = run_github_query_to_data_set(query_pr_merged)
+        print(f'\nO resultado da query: {resultado_query}')
+
         # Variável armazena a quantidade de iterações que faremos para armazenar os merged de um repositório
-        tamanho_query = len(resultado_query['data']['repository']['merged']['nodes'])
+        tamanho_query = len(resultado_query['data']['repository']['closed']['nodes'])
+        print(f'O tamanho da query: {tamanho_query}')
+
         # Se o tamanho for zero, nós iremos fazer a próxima iteração
         if tamanho_query != 0:
             # Variável pega o endCursor para próxima página dos merged (after)
             end_cursor = '"{}"'.format(
-                resultado_query['data']['repository']['merged']['pageInfo']['endCursor'])
+                resultado_query['data']['repository']['closed']['pageInfo']['endCursor'])
+
+            print(f'\nO cursor final é: {end_cursor}\n')
+
             # Só itera caso não for None e 0 e monta e adiciona o objeto de merged request em uma lista
-            if tamanho_query is not None or 0:
+            if tamanho_query is not None:
                 for y in range(tamanho_query):
                     # Pegarmos a quantidade de caracteres do comentário do commit do PR
-                    if len(resultado_query['data']['repository']['merged']['nodes'][y]['bodyText']) > 0:
+                    if len(resultado_query['data']['repository']['closed']['nodes'][y]['bodyText']) > 0:
                         quantidade_caracteres_body_text = len(
-                            resultado_query['data']['repository']['merged']['nodes'][y]['bodyText'])
+                            resultado_query['data']['repository']['closed']['nodes'][y]['bodyText'])
                     else:
                         quantidade_caracteres_body_text = 0
+
+                    print(f'A quantidade de caracteres do body text: {quantidade_caracteres_body_text}')
+
                     # Iremos pegar a data de criação do PR e a data de MERGE REQUEST e iremos comparar
                     # Se não foi feito por um BOT ou CI/CD, então tem que ter pelo menos uma hora de diferença
-                    created_at = resultado_query['data']['repository']['merged']['nodes'][y]['createdAt']
-                    merged_at = resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt']
-                    created_parse = dateutil.parser.parse(created_at)
-                    merged_parse = dateutil.parser.parse(merged_at)
-                    diferenca_entre_criacao_e_merge = merged_parse - created_parse
-                    calc_diferenca_datas = diferenca_entre_criacao_e_merge.seconds / 3600 % 24
+                    created_at = resultado_query['data']['repository']['closed']['nodes'][y]['createdAt']
+                    closed_at = resultado_query['data']['repository']['closed']['nodes'][y]['closedAt']
 
-                    # Só iremos colocar no dicionário request que tenham pelo menos uma revisão
-                    # E também a data de criação do PR tenha pelo menos uma hora
-                    reviews_quantidade = resultado_query['data']['repository']['merged']['nodes'][y]['reviews']['totalCount']
-                    if reviews_quantidade >= 1 and calc_diferenca_datas >= 1:
-                        # Vai montar em um dicionário os resultados da query dos merged request
-                        data = dict(total_count=resultado_query['data']['repository']['merged']['totalCount'],
-                                    created_at=resultado_query['data']['repository']['merged']['nodes'][y]['createdAt'],
-                                    merged_at=resultado_query['data']['repository']['merged']['nodes'][y]['mergedAt'],
-                                    body_text=quantidade_caracteres_body_text,
-                                    id_pr=resultado_query['data']['repository']['merged']['nodes'][y]['id'],
-                                    reviews=reviews_quantidade,
-                                    participants=
-                                    resultado_query['data']['repository']['merged']['nodes'][y]['participants'][
-                                        'totalCount'],
-                                    files=resultado_query['data']['repository']['merged']['nodes'][y]['files'][
-                                        'totalCount'])
-                        # Adiciona na lista os resultados obtidos por página
-                        merged_prs.append(data)
-                        print(merged_prs)
-            # Salva em um arquivo JSON os resultados obtidos na lista a cada iteração por página (5 por página)
-            with open(f"data_json\\merged_data_{owner}_{name}_{quantidade_repo}.json", "w") as file:
-                json.dump(merged_prs, file, indent=4)
-        else:
-            continue
+                    # Só iremos verificar caso a data não seja None, pois, é impossível saber o tempo
+                    if created_at is not None and closed_at is not None:
+                        created_parse = dateutil.parser.parse(created_at)
+                        merged_parse = dateutil.parser.parse(closed_at)
+                        diferenca_entre_criacao_e_merge = merged_parse - created_parse
+                        calc_diferenca_datas = diferenca_entre_criacao_e_merge.seconds / 3600 % 24
+
+                        print(f'A hora entre a diferença entre as datas: {calc_diferenca_datas}')
+
+                        # Só iremos colocar no dicionário request que tenham pelo menos uma revisão
+                        # E também a data de criação do PR tenha pelo menos uma hora
+                        reviews_quantidade = resultado_query['data']['repository']['closed']['nodes'][y]['reviews']['totalCount']
+
+                        # Caso o reviews for None automaticamente ele não tem nenhum valor
+                        # e não irá dar problema na condicional
+                        if reviews_quantidade is None:
+                            reviews_quantidade = 0
+
+                        print(f'A quantidade de reviews: {reviews_quantidade}\n')
+
+                        if reviews_quantidade >= 1 and calc_diferenca_datas >= 1:
+                            # Vai montar em um dicionário os resultados da query dos merged request
+
+                            try:
+                                if resultado_query['data']['repository']['closed']['nodes'][y]['files']['totalCount'] is None:
+                                    result_files = "without_data"
+                                else:
+                                    result_files = str(resultado_query['data']['repository']['closed']['nodes'][y]['files']['totalCount'])
+                                if resultado_query['data']['repository']['closed']['nodes'][y]['participants']['totalCount'] is None:
+                                    result_participants = "without_data"
+                                else:
+                                    result_participants = str(resultado_query['data']['repository']['closed']['nodes'][y]['participants']['totalCount'])
+                                if resultado_query['data']['repository']['closed']['nodes'][y]['id'] is None:
+                                    result_id = "without_data"
+                                else:
+                                    result_id = str(resultado_query['data']['repository']['closed']['nodes'][y]['id'])
+                                if resultado_query['data']['repository']['closed']['totalCount'] is None:
+                                    result_total_count = "without_data"
+                                else:
+                                    result_total_count = str(resultado_query['data']['repository']['closed']['totalCount'])
+
+                                print(f'Total PRs MERGED: {result_total_count}')
+                                print(str(resultado_query['data']['repository']['closed']['nodes'][y]['createdAt']))
+                                print(str(resultado_query['data']['repository']['closed']['nodes'][y]['closedAt']))
+                                print(f'Id: {result_id}')
+                                print(f'Quantidade de reviews: {reviews_quantidade}')
+                                print(f'Quantidade participantes: {result_participants}')
+                                print(f'Quantidade arquivos: {result_files}')
+
+                                # data = dict(total_count=result_total_count,
+                                #             created_at=created_at,
+                                #             closed_at=closed_at,
+                                #             body_text=quantidade_caracteres_body_text,
+                                #             id_pr=result_id,
+                                #             reviews=reviews_quantidade,
+                                #             participants=result_participants,
+                                #             files=result_files)
+                                merged_prs.append(
+                                    {
+                                        "total_count": result_total_count,
+                                        "created_at": created_at,
+                                        "closed_at": closed_at,
+                                        "body_text": quantidade_caracteres_body_text,
+                                        "id_pr": result_id,
+                                        "reviews": reviews_quantidade,
+                                        "participants": result_participants,
+                                        "files": result_files
+                                    }
+                                )
+                            except Exception as e:
+                                print(f'Deu ruim em algum lugar: {e}')
+                                continue
+
+                # Salva em um arquivo JSON os resultados obtidos na lista a cada iteração por página (5 por página)
+                with open(f"data_json_closed\\merged_data_{owner}_{name}_{quantidade_repo}.json", "w") as file:
+                    json.dump(merged_prs, file, indent=4)
+            else:
+                continue
 
 
 """

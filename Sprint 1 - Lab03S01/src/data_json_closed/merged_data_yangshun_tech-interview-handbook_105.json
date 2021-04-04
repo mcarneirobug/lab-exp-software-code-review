@@ -1,0 +1,42 @@
+[
+    {
+        "total_count": "38",
+        "created_at": "2018-01-20T06:08:46Z",
+        "closed_at": "2018-01-20T17:31:26Z",
+        "body_text": 83,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MTY0MTEzNTAx",
+        "reviews": 1,
+        "participants": "2",
+        "files": "2"
+    },
+    {
+        "total_count": "38",
+        "created_at": "2020-04-22T01:38:56Z",
+        "closed_at": "2020-04-22T02:57:52Z",
+        "body_text": 95,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0NDA2OTkyODk5",
+        "reviews": 1,
+        "participants": "2",
+        "files": "1"
+    },
+    {
+        "total_count": "38",
+        "created_at": "2020-05-06T03:36:55Z",
+        "closed_at": "2020-06-25T06:26:33Z",
+        "body_text": 71,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0NDEzODU5ODUz",
+        "reviews": 1,
+        "participants": "2",
+        "files": "2"
+    },
+    {
+        "total_count": "38",
+        "created_at": "2020-08-18T15:59:33Z",
+        "closed_at": "2020-09-25T11:24:44Z",
+        "body_text": 185,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0NDY5NTkyMDM4",
+        "reviews": 4,
+        "participants": "3",
+        "files": "1"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "total_count": "88",
+        "created_at": "2018-07-10T21:06:57Z",
+        "closed_at": "2018-07-10T22:42:15Z",
+        "body_text": 42,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjAwNTIzNzYw",
+        "reviews": 1,
+        "participants": "2",
+        "files": "3"
+    },
+    {
+        "total_count": "88",
+        "created_at": "2019-03-26T10:28:53Z",
+        "closed_at": "2019-12-23T06:35:22Z",
+        "body_text": 55,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MjY0NDU4MTgw",
+        "reviews": 1,
+        "participants": "2",
+        "files": "3"
+    },
+    {
+        "total_count": "88",
+        "created_at": "2019-10-07T04:48:19Z",
+        "closed_at": "2019-11-14T19:40:56Z",
+        "body_text": 168,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MzI1MTI2Mzc3",
+        "reviews": 1,
+        "participants": "2",
+        "files": "3"
+    },
+    {
+        "total_count": "88",
+        "created_at": "2019-10-20T11:05:15Z",
+        "closed_at": "2019-10-22T08:14:41Z",
+        "body_text": 51,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MzMwMTA2Mjcy",
+        "reviews": 1,
+        "participants": "2",
+        "files": "1"
+    },
+    {
+        "total_count": "88",
+        "created_at": "2019-10-25T04:22:03Z",
+        "closed_at": "2019-10-25T08:28:26Z",
+        "body_text": 137,
+        "id_pr": "MDExOlB1bGxSZXF1ZXN0MzMyMzMzNjc3",
+        "reviews": 1,
+        "participants": "3",
+        "files": "1"
+    }
+]
