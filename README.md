@@ -82,9 +82,9 @@ Para melhor **analisar a correlação entre os valores obtidos** em cada questã
 
 - [X] Lab03S01:  Lista de repositórios selecionados + Criação do script de coleta dos PRs e métricas definidas (**6 pontos**)
 
-- [ ] Lab03S02: Dataset completo, com os valores de todas as métricas necessárias (**6 pontos**) 
+- [X] Lab03S02: Dataset completo, com os valores de todas as métricas necessárias (**6 pontos**) 
 
-- [ ] Lab03S03: Análise dos resultados e escrita do documento final (**7 pontos**) 
+- [X] Lab03S03: Análise dos resultados e escrita do documento final (**7 pontos**) 
 
 `Prazo final: **21/04** | Valor total: **20 pontos** | Desconto de **0.5 pontos** por dia de atraso.`
 
@@ -99,5 +99,5 @@ Para melhor **analisar a correlação entre os valores obtidos** em cada questã
 - [Jose Laerte Pires Xavier Junior](https://github.com/xavierlaerte).
 
 <h4 align="center"> 
-	🚧  Spring 2 🚀 Em progresso ...  🚧
+	🚧  Spring 3 🚀 Finalizada ...  🚧
 </h4>
